@@ -1,0 +1,39 @@
+{
+  "Subnets": {
+    "SN58: Deepy-Speech": {
+      "description": "The Dippy empathetic speech subnetwork on Bittensor is dedicated to developing the world's most advanced open source speech model for immersive and realistic interactions. By leveraging the collaborative strength of the open source community, this sub-network addresses the growing demand of real companies for a speech-centric approach. Our goal is to create a model that offers personalized, empathetic voice interactions beyond the capabilities of traditional assistants and closed-source models. Unlike existing models that rely on reference speech recordings limiting creative flexibility, we use natural language prompts to manage the speaker's identity and style. This intuitive approach enables more dynamic and personalized role-playing experiences, promoting deeper and more engaging interactions.",
+      "tags": ["SN58", "Subnet-58", "Deepy-Speech", "Subnet 58"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN58", "Deepy-Speech", "Subnet 58"],
+          "link": "https://github.com/impel-intelligence/dippy-speech-subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN58", "Deepy-Speech", "Subnet 58"],
+          "link": "https://taostats.io/subnets/58/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN58", "Deepy-Speech", "Subnet 58"],
+          "link": "https://www.dippyspeech.com/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN58", "Deepy-Speech", "Subnet 58"],
+          "link": "https://x.com/dippy_ai?t=W-5T7w61lwLXkbhw3kwQJQ&s=09"
+        },
+        "Discord-Bittensor-SN58": {
+          "tags": ["Community", "Discord", "SN58", "Deepy-Speech", "Subnet 58"],
+          "link": "https://discord.com/channels/799672011265015819/1304499133675081761"
+        },
+        "Support-Growth-of-dTAO": {
+          "tags": ["Community", "Growth", "dTAO", "SN58", "Deepy-Speech"],
+          "children": {
+            "Source": {
+              "tags": ["Reference", "Documentation", "SN58", "Deepy-Speech", "Subnet 58"],
+              "link": "https://x.com/dippy_ai/status/1894116358020833684"
+            }
+          }
+        }
+      }
+    }
+  }
+}

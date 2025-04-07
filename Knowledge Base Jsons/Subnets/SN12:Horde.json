@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN12: Horde": {
+      "description": "Horde is a cloud platform dedicated to networkless GPU-equipped servers. It implements hardware classes to establish a free market that optimizes for cost-effectiveness over merely the strongest hardware.",
+      "tags": ["Subnet", "SN12", "Subnet 12", "Horde"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Horde", "SN12", "Subnet 12"],
+          "link": "https://github.com/backend-developers-ltd/ComputeHorde"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "Monitoring", "Horde", "SN12", "Subnet 12"],
+          "link": "https://grafana.bactensor.io/d/b2d70a9d-e838-402c-8e2a-5476fac8de1c/sn12-compute-pow"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Horde", "SN12", "Subnet 12"],
+          "link": "https://taostats.io/subnets/12/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Horde", "SN12", "Subnet 12"],
+          "link": "https://computehorde.io/"
+        },
+        "Discord Bittensor SN12": {
+          "tags": ["Community", "Discord", "Bittensor", "Horde", "SN12", "Subnet 12"],
+          "link": "https://discord.com/channels/799672011265015819/1201941624243109888"
+        }
+      }
+    }
+  }
+}

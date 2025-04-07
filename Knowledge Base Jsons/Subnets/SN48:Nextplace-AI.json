@@ -1,0 +1,43 @@
+{
+  "Subnets": {
+    "SN48: Nextplace-AI": {
+      "description": "Nextplace AI is decentralizing intelligence around housing markets. In a space controlled by monopolies and gatekeepers, Nextplace seeks to provide a democratized network to evaluate home prices for everybody.",
+      "tags": ["SN48", "Subnet-48", "Nextplace-AI", "Subnet 48"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN48", "Nextplace-AI", "Subnet 48"],
+          "link": "https://github.com/Nickel5-Inc/Nextplace"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN48", "Nextplace-AI", "Subnet 48"],
+          "link": "https://taostats.io/subnets/48/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN48", "Nextplace-AI", "Subnet 48"],
+          "link": "https://nextplace.ai/"
+        },
+        "Nickel-5": {
+          "tags": ["App", "Nickel-5", "SN48", "Nextplace-AI", "Subnet 48"],
+          "link": "https://www.nickel5.com/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN48", "Nextplace-AI", "Subnet 48"],
+          "link": "https://x.com/NextPlace_AI"
+        },
+        "Discord-Bittensor-SN48": {
+          "tags": ["Community", "Discord", "SN48", "Nextplace-AI", "Subnet 48"],
+          "link": "https://discord.com/channels/799672011265015819/1286726353881796670"
+        },
+        "Support-&-Growth-of-dTAO": {
+          "tags": ["Support", "dTAO", "SN48", "Nextplace-AI", "Subnet 48"],
+          "children": {
+            "Source": {
+              "tags": ["Documentation", "Source", "SN48", "Nextplace-AI", "Subnet 48"],
+              "link": "https://x.com/Nickel5_/status/1896645735682367970"
+            }
+          }
+        }
+      }
+    }
+  }
+}

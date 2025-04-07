@@ -1,0 +1,55 @@
+{
+  "Subnets": {
+    "SN27: NI-Compute": {
+      "description": "This repository serves as a compute-composable subnet, integrating various cloud platforms (e.g., Runpod, Lambda, AWS) into a cohesive unit. Its purpose is to enable higher-level cloud platforms to offer seamless compute composability across different underlying platforms. With the proliferation of cloud platforms, there's a growing need for a subnet that can seamlessly integrate these platforms, allowing efficient resource sharing and allocation. This compute-composable subnet empowers nodes to contribute computational power, with validators ensuring the integrity and efficiency of the shared resources.",
+      "tags": ["SN27", "Subnet-27", "NI-Compute", "Subnet 27"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN27", "NI-Compute", "Subnet 27"],
+          "link": "https://github.com/neuralinternet/ni-compute"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN27", "NI-Compute", "Subnet 27"],
+          "link": "https://taostats.io/subnets/27/metagraph"
+        },
+        "App": {
+          "tags": ["Application", "GPU Statistics", "SN27", "NI-Compute", "Subnet 27"],
+          "link": "https://app.neuralinternet.ai/"
+        },
+        "GPU-Statistics-Dashboard": {
+          "tags": ["Dashboard", "Statistics", "GPU", "SN27", "NI-Compute", "Subnet 27"],
+          "link": "https://compute.neuralinternet.ai/"
+        },
+        "Website-NI-Compute": {
+          "tags": ["Website", "Official", "SN27", "NI-Compute", "Subnet 27"],
+          "link": "https://neuralinternet.ai/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN27", "NI-Compute", "Subnet 27"],
+          "link": "https://x.com/neural_internet"
+        },
+        "Discord-Neural-Internet": {
+          "tags": ["Community", "Chat", "Discord", "SN27", "NI-Compute", "Subnet 27"],
+          "link": "https://discord.com/invite/neuralinternet"
+        },
+        "Telegram-NI-Compute": {
+          "tags": ["Community", "Chat", "Telegram", "SN27", "NI-Compute", "Subnet 27"],
+          "link": "https://t.me/neuralinternet"
+        },
+        "Nodexoai": {
+          "tags": ["Cloud-Platform", "GPU", "SN27", "NI-Compute", "Subnet 27"],
+          "link": ""
+        },
+        "Support-Growth-of-dTAO": {
+          "tags": ["Support", "dTAO", "SN27", "NI-Compute", "Subnet 27"],
+          "children": {
+            "Source": {
+              "tags": ["Source", "Information", "SN27", "NI-Compute", "Subnet 27"],
+              "link": "https://x.com/neural_internet/status/1890785227636679126"
+            }
+          }
+        }
+      }
+    }
+  }
+}

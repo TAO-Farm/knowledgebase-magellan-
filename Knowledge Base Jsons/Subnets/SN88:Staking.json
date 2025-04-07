@@ -1,0 +1,15 @@
+{
+  "SN88-Staking": {
+    "tags": ["SN88", "Subnet-88", "Staking", "Subnet 88"],
+    "children": {
+      "Metagraph": {
+        "tags": ["Metagraph", "SN88", "Staking", "Subnet 88"],
+        "link": "https://taostats.io/subnets/88/chart"
+      },
+      "Github": {
+        "tags": ["Code", "Repository", "SN88", "Staking", "Subnet 88"],
+        "link": "https://github.com/epappas/tao-trading"
+      }
+    }
+  }
+}

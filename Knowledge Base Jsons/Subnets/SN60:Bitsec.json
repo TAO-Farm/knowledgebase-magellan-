@@ -1,0 +1,26 @@
+{
+  "Subnets": {
+    "SN60: Bitsec": {
+      "description": "Bitsec is an Ecosystem for AI-powered code vulnerability detection. Initially, it will help other Bittensor Subnet owners find and fix flaws in their incentive mechanisms, and find exploits in smart contract code. As the project grows, Bitsec will expand coverage to other types of codebases.",
+      "tags": ["SN60", "Subnet-60", "Bitsec", "Subnet 60"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN60", "Bitsec", "Subnet 60"],
+          "link": "https://github.com/Bitsec-AI/subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN60", "Bitsec", "Subnet 60"],
+          "link": "https://taostats.io/subnets/60/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN60", "Bitsec", "Subnet 60"],
+          "link": "https://bitsec.ai/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN60", "Bitsec", "Subnet 60"],
+          "link": "https://x.com/bitsecai?t=9sTg9ybggVGUXAHYJhy-2A&s=09"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+    "Subnets": {
+      "SN1: Apex": {
+        "description": "Apex is a Bittensor subnet that incentivizes miners to create agentic workflows to reduce hallucinations and increase the quality of inference for varied Large Language Models (LLMs). Through continuous, novel, and asymmetric evaluations, validators host an arena where the LLM is outfitted with the best tools and function calls to lay claim to TAO emissions. In tandem with the miner ranking, the evaluation pipeline provides a rich and original dataset, with millions of tokens created per day. This data is then utilized as the training dataset for Subnet 37's fine-tuning.",
+        "tags": ["Subnet", "SN1", "Subnet 1", "Apex"],
+        "children": {
+          "Github": {
+            "tags": ["Repository", "Github", "SN1", "Subnet 1", "Apex"],
+            "link": "https://github.com/macrocosm-os/prompting"
+          },
+          "Substack": {
+            "tags": ["Blog", "Newsletter", "SN1", "Subnet 1", "Apex"],
+            "link": "https://macrocosmosai.substack.com/t/language-models"
+          },
+          "Dashboard": {
+            "tags": ["Dashboard", "Monitoring", "SN1", "Subnet 1", "Apex"],
+                "link": "https://www.macrocosmos.ai/sn1/dashboard"
+          },
+          "Website": {
+            "tags": ["Website", "Official", "SN1", "Subnet 1", "Apex"],
+            "link": "https://www.macrocosmos.ai/"
+          },
+          "Metagraph": {
+            "tags": ["Metagraph", "Network", "SN1", "Subnet 1", "Apex"],
+            "link": "https://taostats.io/subnets/1/metagraph"
+          },
+          "LinkedIn": {
+            "tags": ["Professional", "Social Media", "LinkedIn", "SN1", "Subnet 1", "Apex"],
+            "link": "https://www.linkedin.com/company/macrocosmosai/"
+          },
+          "X account": {
+            "tags": ["Social Media", "X", "SN1", "Subnet 1", "Apex"],
+            "link": "https://x.com/MacrocosmosAI"
+          },
+          "Discord Bittensor SN1": {
+            "tags": ["Community", "Discord", "SN1", "Subnet 1", "Apex"],
+            "link": "https://discord.com/channels/799672011265015819/1161764867166961704"
+          },
+          "Discord MacrocosmosAI": {
+            "tags": ["Community", "Discord", "MacrocosmosAI", "SN1", "Subnet 1", "Apex"],
+            "link": "https://discord.com/invite/7A8cdqSDHV"
+          },
+          "Telegram Macrocosmos": {
+            "tags": ["Community", "Telegram", "Macrocosmos", "SN1", "Subnet 1", "Apex"],
+            "link": "https://t.me/MacrocosmosAI"
+          }
+        }
+      }
+    }
+  }
+  

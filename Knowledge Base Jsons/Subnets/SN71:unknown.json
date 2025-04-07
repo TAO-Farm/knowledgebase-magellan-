@@ -1,0 +1,11 @@
+{
+  "SN71-unknown": {
+    "tags": ["SN71", "Subnet-71", "unknown", "Subnet 71"],
+    "children": {
+      "Metagraph": {
+        "tags": ["Metagraph", "SN71", "unknown", "Subnet 71"],
+        "link": "https://taostats.io/subnets/71/chart"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Subnets": {
+    "SN38: Distributed-Training": {
+      "description": "DistributedTraining is focused on training a single LLM in a distributed setting. Contributors are incentivized to provide compute, bandwidth, and low latency, using compute to train local models and bandwidth and latency to facilitate the averaging of model weights across participants.",
+      "tags": ["SN38", "Subnet-38", "Distributed-Training", "Subnet 38"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN38", "Distributed-Training", "Subnet 38"],
+          "link": "https://github.com/KMFODA/DistributedTraining/"
+        },
+        "White-paper": {
+          "tags": ["Documentation", "White-paper", "SN38", "Distributed-Training", "Subnet 38"],
+          "link": "https://distributed-training.notion.site/Decentralised-Distributed-Training-fd21bdfa72294dfeab8fb092770212b9"
+        },
+        "Blog": {
+          "tags": ["Blog", "Information", "SN38", "Distributed-Training", "Subnet 38"],
+          "link": "https://distributed-training.notion.site/Decentralised-Distributed-Training-fd21bdfa72294dfeab8fb092770212b9"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN38", "Distributed-Training", "Subnet 38"],
+          "link": "https://taostats.io/subnets/38/metagraph"
+        }
+      }
+    }
+  }
+}

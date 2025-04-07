@@ -1,0 +1,38 @@
+{
+  "Subnets": {
+    "SN36: Autoppia": {
+      "description": "Web Agents Subnet leverages our Infinite Web Arena (IWA) benchmark to incentivize Bittensor Miners to develop powerful Web Agents. Current state-of-the-art benchmarks for web operation are quite limited and can be easily gamed by memorization and training on the dataset. IWA solves these limitations by using generative AI and synthetic data to create a continuous stream of novel and dynamic web challenges. This approach ensures agents face realistic tasks that demand ongoing adaptation, reasoning, and generalization. Our goal is to make IWA the default benchmark for web agents and establish Subnet 36 web agents as the world's best web operators. By rewarding miners who develop high-performing agents, IWA ensures scalability, continuous improvement, and robust evaluations without static datasets or human bottlenecks.",
+      "tags": ["SN36", "Subnet-36", "Autoppia", "Subnet 36"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN36", "Autoppia", "Subnet 36"],
+          "link": "https://github.com/autoppia/autoppia_web_agents_subnet"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN36", "Autoppia", "Subnet 36"],
+          "link": "https://autoppia.com/"
+        },
+        "App-Autoppia": {
+          "tags": ["Application", "Autoppia", "SN36", "Subnet 36"],
+          "link": "https://autoppia.com/application"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN36", "Autoppia", "Subnet 36"],
+          "link": "https://taostats.io/subnets/36/metagraph"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN36", "Autoppia", "Subnet 36"],
+          "link": "https://x.com/AutoppiaAI?t=NUq1fdOr4GDpBzzdNDqB7A&s=09"
+        },
+        "Discord-Autoppia": {
+          "tags": ["Community", "Discord", "SN36", "Autoppia", "Subnet 36"],
+          "link": "https://discord.com/channels/799672011265015819/1301269318213828699"
+        },
+        "Discord-Bittensor-SN36": {
+          "tags": ["Community", "Discord", "SN36", "Autoppia", "Subnet 36"],
+          "link": "https://discord.com/channels/799672011265015819/1301269318213828699"
+        }
+      }
+    }
+  }
+}

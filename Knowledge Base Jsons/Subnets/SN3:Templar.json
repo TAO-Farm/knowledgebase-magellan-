@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN3: Templar": {
+      "description": "Templar is focused on advancing decentralized training by reimagining traditional, centralized methods through new incentive and infrastructure models. Starting with a 1.2 billion-parameter model in continuous training, Templar applies weekly decay steps to assess and improve model performance, sharing regular updates to showcase progress.",
+      "tags": ["Subnet", "SN3", "Subnet 3", "Templar"],
+      "children": {
+        "Github": {
+          "tags": ["Repository", "Github", "SN3", "Subnet 3", "Templar"],
+          "link": "https://github.com/tplr-ai/templar"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN3", "Subnet 3", "Templar"],
+          "link": "https://www.tplr.ai/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "SN3", "Subnet 3", "Templar"],
+          "link": "https://x.com/tplr_ai"
+        },
+        "Discord Bittensor SN3": {
+          "tags": ["Community", "Discord", "SN3", "Subnet 3", "Templar"],
+          "link": "https://discord.com/channels/799672011265015819/1222226314824777853"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "SN3", "Subnet 3", "Templar"],
+          "link": "https://taostats.io/subnets/3/metagraph"
+        }
+      }
+    }
+  }
+}

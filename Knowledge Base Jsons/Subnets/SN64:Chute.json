@@ -1,0 +1,43 @@
+{
+  "Subnets": {
+    "SN64: Chute": {
+      "description": "Chutes is focused on providing decentralized, serverless, and affordable compute infrastructure. Contributors provide GPU resources, allowing users to run diverse workloads—AI models, batch processing, and ephemeral jobs—seamlessly and without the need for infrastructure management.",
+      "tags": ["SN64", "Subnet-64", "Chute", "Subnet 64"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN64", "Chute", "Subnet 64"],
+          "link": "https://github.com/rayonlabs/chutes"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN64", "Chute", "Subnet 64"],
+          "link": "https://chutes.ai/"
+        },
+        "App": {
+          "tags": ["Application", "Chute", "SN64", "Subnet 64"],
+          "link": "https://chutes.ai/app"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN64", "Chute", "Subnet 64"],
+          "link": "https://x.com/rayon_labs"
+        },
+        "Discord-Bittensor-SN64": {
+          "tags": ["Communication", "Discord", "Bittensor", "SN64", "Chute", "Subnet 64"],
+          "link": "https://discord.com/channels/799672011265015819/1320739778534047785"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN64", "Chute", "Subnet 64"],
+          "link": "https://taostats.io/subnets/64/metagraph"
+        },
+        "Support-Growth-dTAO": {
+          "tags": ["Support", "Growth", "dTAO", "SN64", "Chute", "Subnet 64"],
+          "children": {
+            "Source": {
+              "tags": ["Documentation", "Source", "SN64", "Chute", "Subnet 64"],
+              "link": "https://x.com/rayon_labs/status/1891935460815143106"
+            }
+          }
+        }
+      }
+    }
+  }
+}

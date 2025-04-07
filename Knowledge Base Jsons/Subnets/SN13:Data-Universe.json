@@ -1,0 +1,50 @@
+{
+  "Subnets": {
+    "SN13: Data-Universe": {
+      "description": "SN13 is Bittensor's data scraping and storage subnet. Developing state of the art intelligence depends disproportionately on the underlying datasets. SN13 provides the Bittensor ecosystem with a diverse, high quality dataset from a diverse array of sources.",
+      "tags": ["Subnet", "SN13", "Subnet 13", "Data-Universe"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://github.com/macrocosm-os/data-universe"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "Monitoring", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://www.macrocosmos.ai/sn13/dashboard"
+        },
+        "Substack": {
+          "tags": ["Substack", "Documentation", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://macrocosmosai.substack.com/t/data-scraping"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://taostats.io/subnets/13/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://www.macrocosmos.ai/sn13"
+        },
+        "LinkedIn": {
+          "tags": ["LinkedIn", "Professional", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://www.linkedin.com/company/macrocosmosai/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://x.com/macrocosmosai"
+        },
+        "Discord Macrocosmos AI": {
+          "tags": ["Community", "Discord", "Macrocosmos AI", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://discord.com/channels/1238450997848707082/1238453047848599562"
+        },
+        "Discord Bittensor SN13": {
+          "tags": ["Community", "Discord", "Bittensor", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://discord.com/channels/799672011265015819/1185617142914236518"
+        },
+        "Telegram Macrocosmos": {
+          "tags": ["Community", "Telegram", "Macrocosmos", "Data-Universe", "SN13", "Subnet 13"],
+          "link": "https://t.me/MacrocosmosAI"
+        }
+      }
+    }
+  }
+}

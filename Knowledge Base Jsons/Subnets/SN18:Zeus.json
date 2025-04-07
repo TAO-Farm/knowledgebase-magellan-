@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN18: Zeus": {
+      "description": "Decentralized Climate Forecasting. Zeus operates as Subnet 18 on the Bittensor network to push climate forecasts beyond state-of-the-art models through machine learning weather prediction. Powered by Orpheus AI in partnership with BitMind.",
+      "tags": ["Subnet", "SN18", "Subnet 18", "Zeus"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Code", "Zeus", "SN18", "Subnet 18"],
+          "link": "https://github.com/Orpheus-AI/Zeus"
+        },
+        "White paper": {
+          "tags": ["White paper", "Documentation", "Zeus", "SN18", "Subnet 18"],
+          "link": "https://www.zeussubnet.com/whitepaper/Zeus_whitepaper_v0_1.pdf"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Zeus", "SN18", "Subnet 18"],
+          "link": "https://taostats.io/subnets/18/chart"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Zeus", "SN18", "Subnet 18"],
+          "link": "https://www.zeussubnet.com/"
+        },
+        "X account": {
+          "tags": ["X", "Social Media", "Zeus", "SN18", "Subnet 18"],
+          "link": "https://x.com/zeussubnet?t=7mLzBw6lxNgnj6__fslkXA&s=35"
+        }
+      }
+    }
+  }
+}

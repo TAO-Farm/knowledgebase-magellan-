@@ -1,0 +1,24 @@
+{
+  "SN80-AI-Factory": {
+    "description": "AI Factory is a subnet within the Bittensor ecosystem, focused on auto-developing customized AI solutions for specific applications.",
+    "tags": ["SN80", "Subnet-80", "AI Factory", "Subnet 80"],
+    "children": {
+      "Github": {
+        "tags": ["Code", "Repository", "SN80", "AI Factory", "Subnet 80"],
+        "link": "https://github.com/star145s/ai_factory"
+      },
+      "Metagraph": {
+        "tags": ["Metagraph", "SN80", "AI Factory", "Subnet 80"],
+        "link": "https://taostats.io/subnets/80/chart"
+      },
+      "X-account": {
+        "tags": ["Social", "X", "SN80", "AI Factory", "Subnet 80"],
+        "link": "https://x.com/ai_factory_bit"
+      },
+      "Discord-AI-Factory": {
+        "tags": ["Community", "Discord", "SN80", "AI Factory", "Subnet 80"],
+        "link": "https://discord.com/invite/FaMRBQ3QFa"
+      }
+    }
+  }
+}

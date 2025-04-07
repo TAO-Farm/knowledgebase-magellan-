@@ -1,0 +1,28 @@
+{
+  "SN75-Hippius": {
+    "description": "Transparent, Decentralized, Anonymous Cloud Storage. Powerful cloud solutions—storage, virtual machines, and apps—backed by a blockchain for unmatched transparency and trust.",
+    "tags": ["SN75", "Subnet-75", "Hippius", "Subnet 75"],
+    "children": {
+      "Github": {
+        "tags": ["Code", "Repository", "SN75", "Hippius", "Subnet 75"],
+        "link": "https://github.com/thenervelab"
+      },
+      "Metagraph": {
+        "tags": ["Metagraph", "SN75", "Hippius", "Subnet 75"],
+        "link": "https://taostats.io/subnets/75/chart"
+      },
+      "Website": {
+        "tags": ["Website", "Official", "SN75", "Hippius", "Subnet 75"],
+        "link": "https://hippius.com/"
+      },
+      "X-account": {
+        "tags": ["Social", "X", "SN75", "Hippius", "Subnet 75"],
+        "link": "https://x.com/hippius_subnet"
+      },
+      "Discord-Hippius": {
+        "tags": ["Community", "Discord", "SN75", "Hippius", "Subnet 75"],
+        "link": "https://discord.com/invite/erQTTR3gGg"
+      }
+    }
+  }
+}

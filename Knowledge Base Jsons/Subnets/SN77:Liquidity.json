@@ -1,0 +1,15 @@
+{
+  "SN77-Liquidity": {
+    "tags": ["SN77", "Subnet-77", "Liquidity", "Subnet 77"],
+    "children": {
+      "Github": {
+        "tags": ["Code", "Repository", "SN77", "Liquidity", "Subnet 77"],
+        "link": "https://github.com/epappas/tao-trading"
+      },
+      "Metagraph": {
+        "tags": ["Metagraph", "SN77", "Liquidity", "Subnet 77"],
+        "link": "https://taostats.io/subnets/77/chart"
+      }
+    }
+  }
+}

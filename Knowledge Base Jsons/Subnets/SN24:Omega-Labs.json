@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN24: Omega-Labs": {
+      "description": "Welcome to the Bittensor Subnetwork of OMEGA Labs, a revolutionary initiative aimed at creating the world's largest decentralized multimodal dataset to accelerate research and development in Artificial General Intelligence (AGI). Our mission is to democratize access to a vast and diverse dataset that captures the landscape of human knowledge and creativity, enabling researchers and developers to push the boundaries of AGI. By harnessing the power of the Bittensor network and a global community of miners and validators, we are creating a dataset that surpasses the scale and diversity of existing resources. With over one million hours of sequences and more than 30 million 2-minute video clips, the OMEGA Labs dataset will facilitate the development of powerful AGI models and transform various industries.",
+      "tags": ["SN24", "Subnet-24", "Omega-Labs", "Subnet 24"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN24", "Omega-Labs", "Subnet 24"],
+          "link": "https://github.com/omegalabsinc/omegalabs-bittensor-subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN24", "Omega-Labs", "Subnet 24"],
+          "link": "https://taostats.io/subnets/24/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN24", "Omega-Labs", "Subnet 24"],
+          "link": "https://focus.inc/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN24", "Omega-Labs", "Subnet 24"],
+          "link": "https://x.com/omegalabsai"
+        },
+        "Discord-Focus": {
+          "tags": ["Social", "Discord", "Focus", "SN24", "Omega-Labs", "Subnet 24"],
+          "link": "https://discord.com/channels/1280253105086267484/@home"
+        },
+        "Discord-Bittensor-SN24": {
+          "tags": ["Social", "Discord", "Bittensor", "SN24", "Omega-Labs", "Subnet 24"],
+          "link": "https://discord.com/channels/799672011265015819/1214246819886931988"
+        }
+      }
+    }
+  }
+}

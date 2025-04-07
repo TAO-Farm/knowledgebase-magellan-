@@ -1,0 +1,51 @@
+{
+  "Subnets": {
+    "SN30: Bittensor": {
+      "description": "Bettensor is a sports prediction subnet. The goal of Bettensor is to provide a platform for sports fans to predict the outcomes of their favorite sporting events, and ML/AI researchers to develop new models and strategies to benchmark against good, old fashioned human intelligence and intuition. Mining on this subnet is simple. In this Beta release, miners receive upcoming games and odds, submit predictions as a simulated wager, and are rewarded for correct predictions upon game conclusion. Compute requirements are minimal for those choosing the human intelligence method - all you need is to consistently submit predictions for upcoming games.",
+      "tags": ["SN30", "Subnet-30", "Bittensor", "Subnet 30"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN30", "Bittensor", "Subnet 30"],
+          "link": "https://github.com/Nickel5-Inc/bettensor"
+        },
+        "Linktree": {
+          "tags": ["Social", "Links", "SN30", "Bittensor", "Subnet 30"],
+          "link": "https://linktr.ee/bettensor"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN30", "Bittensor", "Subnet 30"],
+          "link": "https://taostats.io/subnets/30/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN30", "Bittensor", "Subnet 30"],
+          "link": "https://www.bettensor.com/"
+        },
+        "App-Bittensor": {
+          "tags": ["Application", "SN30", "Bittensor", "Subnet 30"],
+          "link": "https://bettensor.com/games"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN30", "Bittensor", "Subnet 30"],
+          "link": "https://x.com/Bettensor"
+        },
+        "Discord-Bittensor": {
+          "tags": ["Community", "Discord", "SN30", "Bittensor", "Subnet 30"],
+          "link": "https://discord.com/invite/PCdQa2XNsf"
+        },
+        "Discord-Bittensor-SN30": {
+          "tags": ["Community", "Discord", "SN30", "Bittensor", "Subnet 30"],
+          "link": "https://discord.com/channels/799672011265015819/1255568373056671804"
+        },
+        "Support-Growth-of-dTAO": {
+          "tags": ["Support", "Growth", "dTAO", "SN30", "Bittensor", "Subnet 30"],
+          "children": {
+            "Source": {
+              "tags": ["Source", "Documentation", "SN30", "Bittensor", "Subnet 30"],
+              "link": "https://x.com/Nickel5_/status/1896645735682367970"
+            }
+          }
+        }
+      }
+    }
+  }
+}

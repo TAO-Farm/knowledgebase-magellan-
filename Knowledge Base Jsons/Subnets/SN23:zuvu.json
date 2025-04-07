@@ -1,0 +1,38 @@
+{
+  "Subnets": {
+    "SN23: zuvu": {
+      "description": "SocialTensor incentivizes miners to scale computational resources for text and image generation models. Contributors commit to a model type and generation volume, with new models and features introduced based on usage demand.",
+      "tags": ["SN23", "Subnet-23", "zuvu", "Subnet 23"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN23", "zuvu", "Subnet 23"],
+          "link": "https://github.com/SocialTensor/SocialTensorSubnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN23", "zuvu", "Subnet 23"],
+          "link": "https://taostats.io/subnets/23/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN23", "zuvu", "Subnet 23"],
+          "link": "https://www.zuvu.ai/"
+        },
+        "App-Niche-Tensor-Studio": {
+          "tags": ["Application", "Niche-Tensor-Studio", "SN23", "zuvu", "Subnet 23"],
+          "link": "https://app.nichetensor.com/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN23", "zuvu", "Subnet 23"],
+          "link": "https://x.com/ZuvuAI"
+        },
+        "Discord-Social-Tensor": {
+          "tags": ["Social", "Discord", "Social Tensor", "SN23", "zuvu", "Subnet 23"],
+          "link": "https://discord.com/invite/DA7NFjjHQz"
+        },
+        "Discord-Bittensor-SN23": {
+          "tags": ["Social", "Discord", "Bittensor", "SN23", "Subnet 23", "zuvu"],
+          "link": "https://discord.com/channels/799672011265015819/1191833510021955695"
+        }
+      }
+    }
+  }
+}

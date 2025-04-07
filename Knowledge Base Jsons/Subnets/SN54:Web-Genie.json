@@ -1,0 +1,26 @@
+{
+  "Subnets": {
+    "SN54: Web-Genie": {
+      "description": "Welcome to WebGenieAI Subnet, a pioneering Bittensor-based subnet designed to revolutionize project generation through advanced AI models. WebGenieAI aims to transform diverse prompts—ranging from texts to concept sketches and images into fully functional, ready-to-deploy projects. This subnet is tailored for developers, designers, and innovators who seek to accelerate their project development process with high-quality, AI-generated outputs.",
+      "tags": ["SN54", "Subnet-54", "Web-Genie", "Subnet 54"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN54", "Web-Genie", "Subnet 54"],
+          "link": "https://github.com/web-genie-ai/web-genie-ai"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN54", "Web-Genie", "Subnet 54"],
+          "link": "https://taostats.io/subnets/54/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN54", "Web-Genie", "Subnet 54"],
+          "link": "https://www.webgenieai.co/"
+        },
+        "Discord-Bittensor-SN54": {
+          "tags": ["Communication", "Discord", "SN54", "Web-Genie", "Subnet 54"],
+          "link": "https://discord.com/channels/799672011265015819/1264939518641963070"
+        }
+      }
+    }
+  }
+}

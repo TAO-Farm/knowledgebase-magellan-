@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN29: ColdInt": {
+      "description": "Coldint is dedicated to the collective training of AI models by incentivizing contributors to collaborate on models, code, and insights.",
+      "tags": ["SN29", "Subnet-29", "ColdInt", "Subnet 29"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN29", "ColdInt", "Subnet 29"],
+          "link": "https://github.com/coldint/sn29"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN29", "ColdInt", "Subnet 29"],
+          "link": "https://coldint.io/"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN29", "ColdInt", "Subnet 29"],
+          "link": "https://taostats.io/subnets/29/metagraph"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN29", "ColdInt", "Subnet 29"],
+          "link": "https://x.com/Coldint_"
+        },
+        "Discord-Bittensor-SN29": {
+          "tags": ["Community", "Discord", "SN29", "ColdInt", "Subnet 29"],
+          "link": "https://discord.com/channels/799672011265015819/1263866060780605501"
+        },
+        "Leaderboard": {
+          "tags": ["Leaderboard", "Statistics", "ColdInt", "SN29", "Subnet 29"],
+          "link": "https://coldint.io/leaderboard/"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN14: Vector-Store": {
+      "description": "This subnet is dedicated to providing a reliable and decentralized vector storage solution, specifically designed to enhance AI training and development within the Bittensor ecosystem.",
+      "tags": ["Subnet", "SN14", "Subnet 14", "Vector-Store"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Vector-Store", "SN14", "Subnet 14"],
+          "link": "https://github.com/vector-pool/vector-store"
+        },
+        "White paper": {
+          "tags": ["White Paper", "Documentation", "Vector-Store", "SN14", "Subnet 14"],
+          "link": "https://docs.google.com/document/u/0/d/1aYNFSXnlQSf4eN9Pxy4U0GS4rbbcJ6An1XaNm6SnzD0/mobilebasic"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Vector-Store", "SN14", "Subnet 14"],
+          "link": "https://taostats.io/subnets/14/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Vector-Store", "SN14", "Subnet 14"],
+          "link": "https://tensorpool.net/"
+        },
+        "Discord Vector Store": {
+          "tags": ["Community", "Discord", "Vector Store", "SN14", "Subnet 14"],
+          "link": "https://discord.com/invite/vNHYGVPeEk"
+        },
+        "Discord Bittensor SN14": {
+          "tags": ["Community", "Discord", "Bittensor", "SN14", "Subnet 14"],
+          "link": "https://discord.com/channels/799672011265015819/1270733850443513927"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN59: Agent-Arena": {
+      "description": "The Agent Arena Subnet gamifies creating the best Twitter AI agent by having miners register agents, validators manage registrations, retrieve metrics, and score agents based on algorithms, ranking top performers in an arena-style competition.",
+      "tags": ["SN59", "Subnet-59", "Agent-Arena", "Subnet 59"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN59", "Agent-Arena", "Subnet 59"],
+          "link": "https://github.com/masa-finance/agent-arena-subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN59", "Agent-Arena", "Subnet 59"],
+          "link": "https://taostats.io/subnets/59/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN59", "Agent-Arena", "Subnet 59"],
+          "link": "https://www.masa.ai/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN59", "Agent-Arena", "Subnet 59"],
+          "link": "https://x.com/getmasafi"
+        },
+        "Discord-Bittensor-SN59": {
+          "tags": ["Community", "Discord", "SN59", "Agent-Arena", "Subnet 59"],
+          "link": "https://discord.com/channels/799672011265015819/1310617172132888639"
+        }
+      }
+    }
+  }
+}

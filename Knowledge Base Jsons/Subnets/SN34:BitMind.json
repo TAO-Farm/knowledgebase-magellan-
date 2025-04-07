@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN34: BitMind": {
+      "description": "BitMind focuses on the detection of AI-generated media. Contributors are encouraged to create advanced models capable of reliably differentiating authentic from fabricated content.",
+      "tags": ["SN34", "Subnet-34", "BitMind", "Subnet 34"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN34", "BitMind", "Subnet 34"],
+          "link": "https://github.com/BitMind-AI/bitmind-subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN34", "BitMind", "Subnet 34"],
+          "link": "https://taostats.io/subnets/34/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN34", "BitMind", "Subnet 34"],
+          "link": "https://bitmind.ai/"
+        },
+        "Apps": {
+          "tags": ["Application", "BitMind", "SN34", "Subnet 34"],
+          "link": "https://bitmind.ai/apps"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN34", "BitMind", "Subnet 34"],
+          "link": "https://x.com/BitMindAI"
+        },
+        "Discord-Bit-Mind": {
+          "tags": ["Community", "Discord", "SN34", "BitMind", "Subnet 34"],
+          "link": "https://discord.com/invite/ue4v65v4cE"
+        }
+      }
+    }
+  }
+}

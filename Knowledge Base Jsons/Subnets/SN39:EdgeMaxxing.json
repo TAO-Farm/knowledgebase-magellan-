@@ -1,0 +1,38 @@
+{
+  "Subnets": {
+    "SN39: EdgeMaxxing": {
+      "description": "EdgeMaxxing is focused on optimizing AI models for consumer devices, starting with Stable Diffusion XL on the NVIDIA GeForce RTX 4090. By optimizing popular models for edge devices, the subnet aims to transform idle computing resources into valuable contributors to decentralized inference networks.",
+      "tags": ["SN39", "Subnet-39", "EdgeMaxxing", "Subnet 39"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN39", "EdgeMaxxing", "Subnet 39"],
+          "link": "https://github.com/womboai/edge-maxxing"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN39", "EdgeMaxxing", "Subnet 39"],
+          "link": "https://www.w.ai/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN39", "EdgeMaxxing", "Subnet 39"],
+          "link": "https://x.com/wai_protocol"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN39", "EdgeMaxxing", "Subnet 39"],
+          "link": "https://taostats.io/subnets/39/metagraph"
+        },
+        "Discord-W.ai": {
+          "tags": ["Community", "Discord", "SN39", "EdgeMaxxing", "Subnet 39"],
+          "link": "https://discord.com/invite/w-ai"
+        },
+        "Discord-Bittensor-SN39": {
+          "tags": ["Community", "Discord", "Bittensor", "SN39", "EdgeMaxxing", "Subnet 39"],
+          "link": "https://discord.com/channels/799672011265015819/1241046233800507482"
+        },
+        "Telegram": {
+          "tags": ["Community", "Telegram", "SN39", "EdgeMaxxing", "Subnet 39"],
+          "link": "https://t.me/+bgEDtwLmYC8wZmUx"
+        }
+      }
+    }
+  }
+}

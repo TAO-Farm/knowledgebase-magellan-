@@ -1,0 +1,47 @@
+{
+  "Subnets": {
+    "SN4: Targon Multi-Modality": {
+      "description": "We operate Subnet 4 on the Bittensor protocol, which aligns global participants in a competitive environment to deliver high-quality intelligence outputs at quick speeds. Our ongoing refinement of the incentive mechanism ensures that only top-performing LLMs deployed on our network are rewarded. This cultivated intelligence forms the backbone of Sybil, our revolutionary search engine.",
+      "tags": ["Subnet", "SN4", "Subnet 4", "Targon Multi-Modality"],
+      "children": {
+        "Github": {
+          "tags": ["Repository", "Github", "SN4", "Subnet 4", "Targon Multi-Modality"],
+          "link": "https://github.com/manifold-inc/targon"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN4", "Subnet 4", "Targon Multi-Modality"],
+          "link": "https://www.manifold.inc/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "SN4", "Subnet 4", "Targon Multi-Modality"],
+          "link": "https://x.com/manifoldlabs"
+        },
+        "Discord Bittensor SN4": {
+          "tags": ["Community", "Discord", "SN4", "Subnet 4", "Targon Multi-Modality"],
+          "link": "https://discord.com/channels/799672011265015819/1161765008347254915"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "SN4", "Subnet 4", "Targon Multi-Modality"],
+          "link": "https://taostats.io/subnets/4/metagraph"
+        },
+        "App: Sybil": {
+          "tags": ["Application", "Sybil", "SN4", "Subnet 4", "Targon Multi-Modality", "google", "search engine"],
+          "link": "https://sybil.com/"
+        },
+        "Targon.com": {
+          "tags": [ "SN4", "Subnet 4", "Targon Multi-Modality", "Application", "inference"],
+          "link": "https://targon.com/"
+        },
+        "tao.xyz": {
+          "tags": [ "Portal", "SN4", "Subnet 4", "Targon Multi-Modality", "Application", "terminal"],
+          "link": "https://tao.xyz/"
+        },
+        "Discord Manifold": {
+          "tags": ["Community", "Discord", "SN4", "Subnet 4", "Targon Multi-Modality", "Manifold"],
+          "link": "https://discord.com/invite/manifold"
+        }
+      
+      }
+    }
+  }
+}

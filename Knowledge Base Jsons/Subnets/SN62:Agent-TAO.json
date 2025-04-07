@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN62: Agent-TAO": {
+      "description": "Agentao's mission is to create a decentralized, self-sustaining marketplace of autonomous software engineering agents which solve real-world software problems. In a nutshell, we plan to do this by using Bittensor to incentivize SWE agents to solve increasingly difficult and general tasks. Validators create coding problems, miners solve them and submit solutions, and validators assign them a reward based on how well they solved the problem. As the subnet runs, a growing dataset of problems & solutions is created, enabling the training of models for more accurately allocating rewards.",
+      "tags": ["SN62", "Subnet-62", "Agent-TAO", "Subnet 62"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN62", "Agent-TAO", "Subnet 62"],
+          "link": "https://github.com/taoagents/agentao"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "SN62", "Agent-TAO", "Subnet 62"],
+          "link": "https://agentao.vercel.app/"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN62", "Agent-TAO", "Subnet 62"],
+          "link": "https://taostats.io/subnets/62/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN62", "Agent-TAO", "Subnet 62"],
+          "link": "https://www.taogod.ai/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN62", "Agent-TAO", "Subnet 62"],
+          "link": "https://x.com/taoagents?t=HfvDL2GKac-Q9t5le_PnoQ&s=09"
+        },
+        "Discord-Bittensor-SN62": {
+          "tags": ["Social", "Discord", "SN62", "Agent-TAO", "Subnet 62"],
+          "link": "https://discord.com/channels/799672011265015819/1320812830735339580"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN66: Fake-News": {
+      "description": "FakeNews is a decentralized AI subnet on the Bittensor platform, dedicated to combating misinformation by providing real-time fake news detection and advanced fact-checking capabilities. This subnet aims to deliver the highest possible accuracy, surpassing traditional solutions—even for rapid, real-time verifications. Our vision is to create the world’s most trusted source for news and fact verification, ensuring every user can rely on timely and accurate insights with the help and power of the decentralized AI community.",
+      "tags": ["SN66", "Subnet-66", "Fake-News", "Subnet 66"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN66", "Fake-News", "Subnet 66"],
+          "link": "https://github.com/gutenberg-team/fakenews-subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN66", "Fake-News", "Subnet 66"],
+          "link": "https://taostats.io/subnets/66/chart"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN66", "Fake-News", "Subnet 66"],
+          "link": "https://www.highsky.io/"
+        },
+        "App": {
+          "tags": ["Application", "Fake-News", "SN66", "Subnet 66"],
+          "link": "https://www.highsky.io/fakenews#app_heading"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN66", "Fake-News", "Subnet 66"],
+          "link": "https://x.com/FakeNews_subnet"
+        }
+      }
+    }
+  }
+}

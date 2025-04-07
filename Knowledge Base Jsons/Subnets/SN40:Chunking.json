@@ -1,0 +1,38 @@
+{
+  "Subnets": {
+    "SN40: Chunking": {
+      "description": "Block segmentation focuses on advancing Retrieval-Augmented Generation (RAG). The subnetwork encourages the creation, hosting, and dissemination of intelligent segmentation systems that optimize intra-block similarity and inter-block dissimilarity, thereby enhancing the efficiency and accuracy of data retrieval and processing.",
+      "tags": ["SN40", "Subnet-40", "Chunking", "Subnet 40"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN40", "Chunking", "Subnet 40"],
+          "link": "https://github.com/vectorchat/chunking_subnet"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN40", "Chunking", "Subnet 40"],
+          "link": "https://vectorchat.ai/"
+        },
+        "Pitch_deck": {
+          "tags": ["Presentation", "Pitch", "SN40", "Chunking", "Subnet 40"],
+          "link": "https://x.vectorchat.ai/chunking_pitch_deck.pdf"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "Monitoring", "SN40", "Chunking", "Subnet 40"],
+          "link": "https://subnet.chunking.com/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN40", "Chunking", "Subnet 40"],
+          "link": "https://x.com/chunking_subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN40", "Chunking", "Subnet 40"],
+          "link": "https://taostats.io/subnets/40/metagraph"
+        },
+        "Discord-Bittensor-SN40": {
+          "tags": ["Community", "Discord", "Bittensor", "SN40", "Chunking", "Subnet 40"],
+          "link": "https://discord.com/channels/799672011265015819/1245768323036217408"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Subnets": {
+    "SN37: Fine-Tuning": {
+      "description": "SN37 is a subnet for fine-tuning. Fine-tuning delivers the 'final mile' of AI model development, playing a critical role in whether or not an AI application actually meets the needs of its users. Setting new standards for performance: By learning from the experience of SN6, the previous fine-tuning subnet, we can build on existing knowledge to set a new standard for fine-tuning on Bittensor. Overcoming technical hurdles together: Operating a fine-tuning Subnet demands the right pretrained base model, the right dataset, the right evaluation mechanism, and sufficient compute - all aligned with Bittensor's competitive, open-source community. With Taoverse's experience and our engineering skill, we can overcome these challenges.",
+      "tags": ["SN37", "Subnet-37", "Fine-Tuning", "Subnet 37"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN37", "Fine-Tuning", "Subnet 37"],
+          "link": "https://github.com/macrocosm-os/finetuning"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN37", "Fine-Tuning", "Subnet 37"],
+          "link": "https://www.macrocosmos.ai/sn37"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN37", "Fine-Tuning", "Subnet 37"],
+          "link": "https://taostats.io/subnets/37/metagraph"
+        },
+        "Linkedin": {
+          "tags": ["Social", "Linkedin", "SN37", "Fine-Tuning", "Subnet 37"],
+          "link": "https://www.linkedin.com/company/macrocosmosai/"
+        },
+        "Substack": {
+          "tags": ["Substack", "Newsletter", "SN37", "Fine-Tuning", "Subnet 37"],
+          "link": "https://macrocosmosai.substack.com/t/ai-fine-tuning"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN37", "Fine-Tuning", "Subnet 37"],
+          "link": "https://x.com/MacrocosmosAI"
+        },
+        "Discord-Fine-Tuning": {
+          "tags": ["Community", "Discord", "SN37", "Fine-Tuning", "Subnet 37"],
+          "link": "https://discord.com/channels/799672011265015819/1253448873305964626"
+        },
+        "Discord-Bittensor-SN37": {
+          "tags": ["Community", "Discord", "SN37", "Fine-Tuning", "Subnet 37"],
+          "link": "https://discord.com/channels/1238450997848707082/1238453047848599562"
+        },
+        "Telegram-MacrocosmosAI": {
+          "tags": ["Community", "Telegram", "MacrocosmosAI", "SN37", "Fine-Tuning", "Subnet 37"],
+          "link": "https://t.me/MacrocosmosAI"
+        }
+      }
+    }
+  }
+}

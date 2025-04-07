@@ -1,0 +1,42 @@
+{
+  "Subnets": {
+    "SN45: SWE-Rizzo": {
+      "description": "Gen42 leverages the Bittensor network to provide decentralized code generation services. Our focus is on creating robust, scalable tools for code-based Q&A and code completion, powered by open-source large language models.",
+      "tags": ["SN45", "Subnet-45", "SWE-Rizzo", "Subnet 45"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN45", "SWE-Rizzo", "Subnet 45"],
+          "link": "https://github.com/brokespace/code"
+        },
+        "LinkedIn": {
+          "tags": ["Social", "LinkedIn", "SN45", "SWE-Rizzo", "Subnet 45"],
+          "link": "https://www.linkedin.com/company/gen42ai/"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN45", "SWE-Rizzo", "Subnet 45"],
+          "link": "https://taostats.io/subnets/45/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN45", "SWE-Rizzo", "Subnet 45"],
+          "link": "https://rizzo.network/subnet-45/"
+        },
+        "App-chat.gen42.ai": {
+          "tags": ["Application", "Chat", "Gen42", "SN45", "SWE-Rizzo", "Subnet 45"],
+          "link": "https://chat.gen42.ai/login"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN45", "SWE-Rizzo", "Subnet 45"],
+          "link": "https://x.com/Gen42AI"
+        },
+        "X-account-Team-Rizzo": {
+          "tags": ["Social", "X", "Team Rizzo", "SN45", "SWE-Rizzo", "Subnet 45"],
+          "link": "https://x.com/TeamRizzoAI"
+        },
+        "Discord-Bittensor-SN45": {
+          "tags": ["Social", "Discord", "Bittensor", "SN45", "SWE-Rizzo", "Subnet 45"],
+          "link": "https://chatgpt.com/c/67f22262-8c10-800f-a7e7-76e4e5fb457e"
+        }
+      }
+    }
+  }
+}

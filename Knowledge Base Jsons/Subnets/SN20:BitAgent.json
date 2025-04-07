@@ -1,0 +1,38 @@
+{
+  "Subnets": {
+    "SN20: BitAgent": {
+      "description": "BitAgent revolutionizes the way you manage tasks and workflows across multiple platforms by merging the capabilities of large language models (LLMs) with the convenience of your favorite applications such as web browsers, Discord, and custom integrations. BitAgent enables users to seamlessly integrate intelligent agents, providing personalized assistance and built-in task automation.\n\nKey Objective: To provide an intelligent agency to simplify your daily tasks.",
+      "tags": ["Subnet", "SN20", "Subnet 20", "BitAgent"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN20", "BitAgent", "Subnet 20"],
+          "link": "https://github.com/RogueTensor/bitagent_subnet"
+        },
+        "Documentation": {
+          "tags": ["Docs", "Guide", "SN20", "BitAgent", "Subnet 20"],
+          "link": "https://docs.google.com/document/u/1/d/1QVCzDu0eMmkdglD65F_Q_UjnCJauVEr62WgG8SgACt0/edit?tab=t.0#heading=h.ck7e3z2g8pmt"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN20", "BitAgent", "Subnet 20"],
+          "link": "https://taostats.io/subnets/20/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN20", "BitAgent", "Subnet 20"],
+          "link": "https://gogoagent.ai/"
+        },
+        "Website-Team-Rizzo": {
+          "tags": ["Website", "Team", "SN20", "BitAgent", "Rizzo", "Subnet 20"],
+          "link": "https://rizzo.network/subnet-20/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN20", "BitAgent", "Subnet 20"],
+          "link": "https://x.com/FrankRizz07"
+        },
+        "Discord-Bittensor-SN20": {
+          "tags": ["Community", "Discord", "SN20", "BitAgent", "Subnet 20"],
+          "link": "https://discord.com/channels/799672011265015819/1194736998250975332"
+        }
+      }
+    }
+  }
+}

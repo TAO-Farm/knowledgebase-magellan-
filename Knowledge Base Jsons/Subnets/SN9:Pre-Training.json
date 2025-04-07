@@ -1,0 +1,50 @@
+{
+  "Subnets": {
+    "SN9: Pre-Training": {
+      "description": "Bittensor subnet 9 rewards miners for producing pretrained Foundation-Models on the Falcon Refined Web dataset. It acts like a continuous benchmark whereby miners are rewarded for attaining the best losses on randomly sampled pages of Falcon given a consistent model architecture.",
+      "tags": ["Subnet", "SN9", "Subnet 9", "Pre-Training"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://github.com/macrocosm-os/pretraining"
+        },
+        "White paper": {
+          "tags": ["Documentation", "Research", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://www.macrocosmos.ai/research/pretraining_whitepaper.pdf"
+        },
+        "Substack": {
+          "tags": ["Blog", "Articles", "Substack", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://macrocosmosai.substack.com/"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://taostats.io/subnets/9/metagraph"
+        },
+        "Linkedin": {
+          "tags": ["Social Media", "Professional", "Linkedin", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://www.linkedin.com/company/macrocosmosai/"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://www.macrocosmos.ai/sn9"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://x.com/macrocosmosai"
+        },
+        "Discord Macrocosmos": {
+          "tags": ["Community", "Discord", "Macrocosmos", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://discord.com/channels/1238450997848707082/1238453047848599562"
+        },
+        "Discord Bittensor SN9": {
+          "tags": ["Community", "Discord", "Bittensor", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://discord.com/channels/799672011265015819/1162768567821930597"
+        },
+        "Telegram Macrocosmos": {
+          "tags": ["Community", "Telegram", "Macrocosmos", "Pre-Training", "SN9", "Subnet 9"],
+          "link": "https://t.me/MacrocosmosAI"
+        }
+      }
+    }
+  }
+}

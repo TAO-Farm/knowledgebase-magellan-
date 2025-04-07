@@ -1,0 +1,145 @@
+{
+  "Bittensor Apps": {
+    "tags": ["Bittensor", "Apps"],
+    "children": {
+      "Apps Macrocosmos ai >> SN 1/9/13/25/37": {
+        "tags": ["Apps", "Macrocosmos", "SN 1", "Subnet 1", "SN 9", "Subnet 9", "SN 13", "Subnet 13", "SN 25", "Subnet 25", "SN 37", "Subnet 37"],
+        "link": "https://app.macrocosmos.ai/mission-command"
+      },
+      "Tao.Bot Interact with your favorite subnets": {
+        "tags": ["Apps", "Tao.Bot", "Interaction", "Subnets"],
+        "link": "https://www.tao.bot/"
+      },
+      "SN 4 Sybil: Our search engine powered by Bittensor. Goodbye Google. Hello Sybil": {
+        "tags": ["Apps", "Search", "Sybil", "SN 4", "Subnet 4", "google", "search engine"],
+        "link": "https://sybil.com/"
+      },
+      "SN 8: Trading": {
+        "tags": ["Apps", "Trading", "SN 8", "Subnet 8"],
+        "link": "https://www.deltapropshop.io/home"
+      },
+      "SN 11 & 58: Dippy Roleplay: Open source LLM for companionship.": {
+        "tags": ["Apps", "Roleplay", "LLM", "SN 11", "Subnet 11", "SN 58", "Subnet 58"],
+        "link": "https://dippy.ai/"
+      },
+      "404—GEN Blender Add-on": {
+        "tags": ["Apps", "Blender", "404", "Add-on"],
+        "link": "https://404gen.gumroad.com/l/blender"
+      },
+      "SN 17: 3D image generation": {
+        "tags": ["Apps", "3D", "Image Generation", "SN 17", "Subnet 17"],
+        "link": "https://404.xyz/app"
+      },
+      "SN 18 & 19: Chat Glider": {
+        "tags": ["Apps", "Chat", "Glider", "SN 18", "Subnet 18", "SN 19", "Subnet 19"],
+        "link": "https://glider.so/"
+      },
+      "SN 18: Make It a Quote": {
+        "tags": ["Apps", "Quote", "SN 18", "Subnet 18"],
+        "link": "https://makeitaquote.com/"
+      },
+      "Corcel.io": {
+        "tags": ["Apps", "Corcel.io", "chatbot"],
+        "link": "https://corcel.io/"
+      },
+      "SN 18 CorceLio: Chat/Image/Mode code/Mode search/Mode studio": {
+        "tags": ["Apps", "Chat", "Image", "Mode", "Code", "Studio", "SN 18", "Subnet 18"],
+        "link": "https://app.corcel.io/sign-in"
+      },
+      "SN 19 Inference that's permissionless": {
+        "tags": ["Apps", "Inference", "Permissionless", "SN 19", "Subnet 19"],
+        "link": "https://app.sn19.ai/"
+      },
+      "SN 21: Muse Voice Chat": {
+        "tags": ["Apps", "Voice Chat", "Muse", "SN 21", "Subnet 21"],
+        "link": "https://www.sn21.ai/chat"
+      },
+      "SN 22: Desearch": {
+        "tags": ["Apps", "Desearch", "SN 22", "Subnet 22"],
+        "link": "https://chi.datura.ai/"
+      },
+      "SN 23: Niche Tensor Studio: Image creation via decentralized network.": {
+        "tags": ["Apps", "Image Creation", "Decentralized", "SN 23", "Subnet 23"],
+        "link": "https://app.nichetensor.com/"
+      },
+      "Tesnet 25: Alchemy Studio: AI image generation with decentralized human feedback.": {
+        "tags": ["Apps", "AI", "Image Generation", "Alchemy", "Tesnet 25", "Subnet 25"],
+        "link": "https://tensoralchemy.ai/"
+      },
+      "SN 27: Compute.neuralinternet.ai: GPU rental through integrated cloud platforms.": {
+        "tags": ["Apps", "GPU", "Cloud", "SN 27", "Subnet 27"],
+        "link": "https://app.neuralinternet.ai/"
+      },
+      "SN 30: Bittensor": {
+        "tags": ["Apps", "Bittensor", "SN 30", "Subnet 30"],
+        "link": "https://bettensor.com/games"
+      },
+      "It's AI Browser Extension": {
+        "tags": ["Apps", "AI", "Browser Extension"],
+        "link": "https://chromewebstore.google.com/detail/its-ai/lbjiajoblhodlkfloiphigkcemdonidn"
+      },
+      "SN 32: It's AI: Decentralized identification of AI-generated text.": {
+        "tags": ["Apps", "Decentralized", "AI Identification", "SN 32", "Subnet 32"],
+        "link": "https://its-ai.org/#appsz"
+      },
+      "SN 33: Chat AI Super Dave": {
+        "tags": ["Apps", "Chat", "AI", "SN 33", "Subnet 33"],
+        "link": "https://chat.superdave.xyz/"
+      },
+      "SN 34: BitMind Apps": {
+        "tags": ["Apps", "BitMind", "SN 34", "Subnet 34"],
+        "link": "https://bitmind.ai/apps",
+        "children": {
+          "AI Detector": {
+            "tags": ["Apps", "BitMind", "AI Detection"],
+            "link": "https://thedetector.ai/s"
+          },
+          "Agent Smith 'Chrome extension'": {
+            "tags": ["Apps", "BitMind", "Chrome Extension"],
+            "link": "https://chromewebstore.google.com/detail/ai-detector-bitmind/ejlhmbdnjjlifeeelpnlkkechnmojnhg?pli=1"
+          },
+          "X Bot: Deep Fake Detection": {
+            "tags": ["Apps", "BitMind", "Deep Fake Detection"],
+            "link": "https://x.com/bitmindbot"
+          },
+          "Discord Deepfake Detector": {
+            "tags": ["Apps", "BitMind", "Discord", "Deepfake Detection"],
+            "link": "https://discord.com/oauth2/authorize?client_id=1274036214361620560&permissions=139586825408&integration_type=0&scope=bot+applications.commands"
+          }
+        }
+      },
+      "SN 35: Albert App": {
+        "tags": ["Apps", "Albert", "SN 35", "Subnet 35"],
+        "link": "https://albert.aitprotocol.ai/"
+      },
+      "SN 36: Autoppia": {
+        "tags": ["Apps", "Autoppia", "SN 36", "Subnet 36"],
+        "link": "https://autoppia.com/application"
+      },
+      "SN 43: Best path": {
+        "tags": ["Apps", "Best Path", "SN 43", "Subnet 43"],
+        "link": "https://bestpath.world/"
+      },
+      "SN 44: Score predict": {
+        "tags": ["Apps", "Score Prediction", "SN 44", "Subnet 44"],
+        "link": "https://app.scorepredict.io/"
+      },
+      "SN 45: Gen42: Decentralized code generation, scalable tools.": {
+        "tags": ["Apps", "Code Generation", "Decentralized", "Gen42", "SN 45", "Subnet 45"],
+        "link": "https://gen42.ai/"
+      },
+      "SN 46: Neural 3D: 3D generation": {
+        "tags": ["Apps", "3D", "Neural", "SN 46", "Subnet 46"],
+        "link": "https://app.goneural.ai/"
+      },
+      "SN 56: Train SOTA Artificial Intelligence Models in a few clicks.": {
+        "tags": ["Apps", "AI", "SOTA Models", "SN 56", "Subnet 56"],
+        "link": "https://gradients.io/"
+      },
+      "SN 64: Chutes": {
+        "tags": ["Apps", "Chutes", "SN 64", "Subnet 64"],
+        "link": "https://chutes.ai/"
+      }
+    }
+  }
+}

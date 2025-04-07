@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN55: Precog": {
+      "description": "Precog, Subnet #55 of Bittensor launched by Coin Metrics in collaboration with Yuma, is revolutionizing crypto-asset price forecasting. Leveraging decentralized AI and premium data, Precog generates precise Bitcoin price predictions every five minutes, setting a new standard for financial intelligence in digital markets. This innovative subnetwork embodies the power of collaboration and machine learning within the Bittensor ecosystem.",
+      "tags": ["SN55", "Subnet-55", "Precog", "Subnet 55"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN55", "Precog", "Subnet 55"],
+          "link": "https://github.com/coinmetrics/precog"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN55", "Precog", "Subnet 55"],
+          "link": "https://taostats.io/subnets/55/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN55", "Precog", "Subnet 55"],
+          "link": "https://coinmetrics.io/precog/"
+        },
+        "Coin-metrics.io": {
+          "tags": ["Metrics", "Analytics", "SN55", "Precog", "Subnet 55"],
+          "link": "https://coinmetrics.io/precog/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN55", "Precog", "Subnet 55"],
+          "link": "https://x.com/CM_Precog"
+        }
+      }
+    }
+  }
+}

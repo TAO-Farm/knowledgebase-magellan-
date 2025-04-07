@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN47: Condense-AI": {
+      "description": "Subnet as an Accelerate Adapter for LLM Inference. Seamless Integration: Effortlessly integrates with LLM inference engines, such as transformers, vllm. Token Compression: The subnet API compresses long sequences of natural language tokens into soft tokens. Decentralized Network: The subnet is a decentralized network that allows miners to contribute to the compression process. Tiered System: The subnet has a tiered system, with a research tier for experimentation and an inference tier for production-scale use. Incentive distribution is split for each tier. Benchmarking and Validation: The subnet owner defines synthetic metrics to benchmark miners’ performance, ensuring quality and efficiency.",
+      "tags": ["SN47", "Subnet-47", "Condense-AI", "Subnet 47"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN47", "Condense-AI", "Subnet 47"],
+          "link": "https://github.com/condenses/neural-condense-subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN47", "Condense-AI", "Subnet 47"],
+          "link": "https://taostats.io/subnets/47/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN47", "Condense-AI", "Subnet 47"],
+          "link": "https://www.condenses.ai/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN47", "Condense-AI", "Subnet 47"],
+          "link": "https://x.com/condensesai"
+        },
+        "Discord-Bittensor-SN47": {
+          "tags": ["Social", "Discord", "Bittensor", "SN47", "Condense-AI", "Subnet 47"],
+          "link": "https://discord.com/channels/799672011265015819/1305525944123134024"
+        }
+      }
+    }
+  }
+}

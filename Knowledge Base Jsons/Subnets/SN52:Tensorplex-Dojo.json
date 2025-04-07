@@ -1,0 +1,42 @@
+{
+  "Subnets": {
+    "SN52: Tensorplex-Dojo": {
+      "description": "The development of open-source AI models is often hindered by the lack of high-quality human-generated datasets. Closed-source AI developers, aiming to reduce data collection costs, have created significant social and economic equity challenges, with workers being paid less than $2 per hour for mentally and emotionally taxing tasks. The benefits of these models have been concentrated among a select few, exacerbating inequalities among contributors. Enter Tensorplex Dojo Subnet — an open platform designed to crowdsource high-quality human-generated datasets. Powered by Bittensor, the Dojo Subnet addresses these challenges by allowing anyone to earn TAO by labeling data or providing human-preference data. This approach democratizes the collection of human preference data, addressing existing equity issues and paving the way for more inclusive and ethical AI development.",
+      "tags": ["SN52", "Subnet-52", "Tensorplex-Dojo", "Subnet 52"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN52", "Tensorplex-Dojo", "Subnet 52"],
+          "link": "https://github.com/tensorplex-labs/dojo"
+        },
+        "White-paper": {
+          "tags": ["Document", "White-paper", "SN52", "Tensorplex-Dojo", "Subnet 52"],
+          "link": "https://docs.tensorplex.ai/tensorplex-docs/tensorplex-dojo-subnet/whitepaper"
+        },
+        "Dojo-network": {
+          "tags": ["Network", "Dojo", "SN52", "Tensorplex-Dojo", "Subnet 52"],
+          "link": "https://dojo.network/"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN52", "Tensorplex-Dojo", "Subnet 52"],
+          "link": "https://taostats.io/subnets/52/chart"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN52", "Tensorplex-Dojo", "Subnet 52"],
+          "link": "https://www.tensorplex.ai/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN52", "Tensorplex-Dojo", "Subnet 52"],
+          "link": "https://x.com/TensorplexLabs"
+        },
+        "Discord-Tensorplex-Labs": {
+          "tags": ["Social", "Discord", "Tensorplex-Labs", "SN52", "Tensorplex-Dojo", "Subnet 52"],
+          "link": "https://discord.com/invite/jDxRfGME4x"
+        },
+        "Discord-Bittensor-SN52": {
+          "tags": ["Social", "Discord", "Bittensor", "SN52", "Tensorplex-Dojo", "Subnet 52"],
+          "link": "https://discord.com/channels/799672011265015819/1213131262483628102"
+        }
+      }
+    }
+  }
+}

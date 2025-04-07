@@ -1,0 +1,26 @@
+{
+  "Subnets": {
+    "SN63: Alpha-Trader-Exchange": {
+      "description": "The Alpha Trader Exchange Subnet is designed to incentivize and promote liquidity across alpha token pools in the Bittensor network. This subnet creates a unique ecosystem where miners earn rewards by executing profitable trades between alpha tokens, and validators track and score trading performance. The subnet's primary goal is to enhance the overall liquidity and trading efficiency of alpha tokens while providing a transparent and incentivized trading environment.",
+      "tags": ["SN63", "Subnet-63", "Alpha-Trader-Exchange", "Subnet 63"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN63", "Alpha-Trader-Exchange", "Subnet 63"],
+          "link": "https://github.com/Nickel5-Inc/alpha-trader-exchange"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN63", "Alpha-Trader-Exchange", "Subnet 63"],
+          "link": "https://taostats.io/subnets/63/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN63", "Alpha-Trader-Exchange", "Subnet 63"],
+          "link": "https://www.alphatraderexchange.com/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN63", "Alpha-Trader-Exchange", "Subnet 63"],
+          "link": "https://x.com/_alphatraderx?t=2pFUb3NdrijcREpdCrAlEw&s=09"
+        }
+      }
+    }
+  }
+}

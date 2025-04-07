@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN43: Graphite": {
+      "description": "Graphite is a specialized subnet designed to handle graphical problems efficiently. Graphite focuses on the Traveling Salesman Problem (TSP), a classic optimization problem that involves finding the shortest possible route that visits a set of cities and returns to the starting point. This problem is a fundamental challenge in the fields of computer science, mathematics, and operations research as its complexity grows exponentially with the number of cities.",
+      "tags": ["SN43", "Subnet-43", "Graphite", "Subnet 43"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN43", "Graphite", "Subnet 43"],
+          "link": "https://github.com/GraphiteAI/Graphite-Subnet"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "Graphite", "SN43", "Subnet 43"],
+          "link": "https://graphite-ai.net/"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN43", "Graphite", "Subnet 43"],
+          "link": "https://taostats.io/subnets/43/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN43", "Graphite", "Subnet 43"],
+          "link": "https://graphite-ai.net/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN43", "Graphite", "Subnet 43"],
+          "link": "https://x.com/GraphiteSubnet"
+        },
+        "Discord-Bittensor-SN-43": {
+          "tags": ["Social", "Discord", "Bittensor", "SN43", "Graphite", "Subnet 43"],
+          "link": "https://discord.com/channels/799672011265015819/1263507367405031434"
+        }
+      }
+    }
+  }
+}

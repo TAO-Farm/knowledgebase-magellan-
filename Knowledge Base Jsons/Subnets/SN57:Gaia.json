@@ -1,0 +1,51 @@
+{
+  "Subnets": {
+    "SN57: Gaia": {
+      "description": "Geospatial data lies at the heart of our understanding of the world and our ability to address the challenges of tomorrow. However, their complexity requires advanced approaches that combine human expertise with technological power. At the intersection of geospatial analysis and machine learning, the opportunities for innovation are vast. A specialized platform, supported by a community of experts, represents the ideal solution to fully harness the potential of geospatial data. By bringing together expertise, technology, and collaboration, we can transform raw data into powerful tools for change.",
+      "tags": ["SN57", "Subnet-57", "Gaia", "Subnet 57"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN57", "Gaia", "Subnet 57"],
+          "link": "https://github.com/Nickel5-Inc/Gaia"
+        },
+        "Whitepaper": {
+          "tags": ["Documentation", "SN57", "Gaia", "Subnet 57"],
+          "link": "https://www.gaiaresearch.ai/whitepaper"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN57", "Gaia", "Subnet 57"],
+          "link": "https://taostats.io/subnets/57/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN57", "Gaia", "Subnet 57"],
+          "link": "https://www.gaiaresearch.ai/"
+        },
+        "Nickel-5": {
+          "tags": ["Tool", "Utility", "SN57", "Gaia", "Subnet 57"],
+          "link": "https://www.nickel5.com/"
+        },
+        "Discord-Gaia": {
+          "tags": ["Community", "Discord", "SN57", "Gaia", "Subnet 57"],
+          "link": "https://discord.com/invite/Eh6XG3uAhV"
+        },
+        "Discord-Bittensor-SN57": {
+          "tags": ["Community", "Discord", "SN57", "Gaia", "Subnet 57"],
+          "link": "https://discord.com/channels/799672011265015819/1310698546852528180"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN57", "Gaia", "Subnet 57"],
+          "link": "https://x.com/Gaia_AI_?t=HYV4pG8_v1GUZ0R0EVDv-Q&s=09"
+        },
+        "Support-Growth-of-dTAO": {
+          "tags": ["Community", "Growth", "dTAO", "SN57", "Gaia"],
+          "children": {
+            "Source": {
+              "tags": ["Reference", "Documentation", "SN57", "Gaia", "Subnet 57"],
+              "link": "https://x.com/Nickel5_/status/1896645735682367970"
+            }
+          }
+        }
+      }
+    }
+  }
+}

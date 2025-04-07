@@ -1,0 +1,469 @@
+{
+    "Bittensor": {
+      "tags": ["Bittensor"],
+      "Bittensor analysis": {
+        "tags": ["Analysis", "Data", "Bittensor"],
+        "link": "https://www.tao.app/"
+      },
+      "Bittensor website": {
+        "tags": ["Website", "Official", "Bittensor"],
+        "link": "https://bittensor.com/"
+      },
+      "Yuma Consensus": {
+        "tags": ["Consensus", "Protocol", "Bittensor"],
+        "link": "https://docs.bittensor.com/yuma-consensus"
+      },
+      "White paper": {
+        "tags": ["Documentation", "Research", "Bittensor"],
+        "link": "https://bittensor.com/whitepaper"
+      },
+      "Wallet": {
+        "tags": ["Wallet", "Finance", "Bittensor"],
+        "children": {
+          "Bittensor Wallet (Official Chrome Ext.)": {
+            "tags": ["Wallet", "Chrome Extension", "Official", "Bittensor"],
+            "link": "https://chromewebstore.google.com/detail/bittensor-wallet/bdgmdoedahdcjmpmifafdhnffjinddgc"
+          },
+          "Bittensor IOS (Official Mobile)": {
+            "tags": ["Wallet", "Mobile", "Official", "Bittensor"],
+            "link": "https://apps.apple.com/id/app/bittensor-wallet/id6476235156"
+          },
+          "Math Wallet (Mobile, Chrome Ext., Web)": {
+            "tags": ["Wallet", "Mobile", "Chrome Extension", "Web", "Bittensor"],
+            "link": "https://mathwallet.org/bittensor-wallet/en/"
+          },
+          "Nova Wallet (Mobile)": {
+            "tags": ["Wallet", "Mobile", "Bittensor"],
+            "link": "https://novawallet.io/"
+          },
+          "Polkadot {JS} (Chrome Ext)": {
+            "tags": ["Wallet", "Chrome Extension", "Polkadot", "Bittensor"],
+            "link": "https://polkadot.js.org/extension/"
+          },
+          "Polkadot Vault": {
+            "tags": ["Wallet", "Vault", "Polkadot", "Bittensor"],
+            "children": {
+              "Read Guide": {
+                "tags": ["Guide", "Documentation", "Wallet", "Polkadot", "Bittensor"],
+                "link": "https://vault.novasama.io/#about"
+              }
+            }
+          },
+          "Subwallet (Mobile, Desktop)": {
+            "tags": ["Wallet", "Mobile", "Desktop", "Bittensor"],
+            "link": "https://www.subwallet.app/download.html"
+          },
+          "Talisman (Chrome Ext)": {
+            "tags": ["Wallet", "Chrome Extension", "Talisman", "Bittensor"],
+            "link": "https://talisman.xyz/"
+          },
+          "Institutional-Grade Custody": {
+            "tags": ["Wallet", "Custody", "Institutional", "Bittensor"],
+            "link": "https://www.bitgo.uk/",
+            "children": {
+              "Blog": {
+                "tags": ["Blog", "Custody", "Wallet", "Bittensor"],
+                "link": "https://www.bitgo.uk/resources/blog/bitgo-reaches-new-milestone-80-of-the-top-100-digital-assets-now-supported/"
+              }
+            }
+          }
+        }
+      },
+      "Sources": {
+        "tags": ["Sources", "Data", "Bittensor"],
+        "children": {
+          "Bittensor.ai": {
+            "tags": ["Data", "Official", "Bittensor", "Sources"],
+            "link": "https://www.bittensor.ai/"
+          },
+          "Blockchain Explorer Taoxnet": {
+            "tags": ["Blockchain", "Explorer", "Data", "Bittensor", "Sources"],
+            "link": "https://taoxnet.io/"
+          },
+          "Learnbittensor": {
+            "tags": ["Education", "Learning", "Bittensor", "Sources"],
+            "link": "https://learnbittensor.org/"
+          },
+          "Subnetalpha.ai": {
+            "tags": ["Subnet", "Data", "Bittensor", "Sources"],
+            "link": "https://subnetalpha.ai/"
+          },
+          "Taomarketcap": {
+            "tags": ["Marketcap", "Data", "Bittensor", "Sources"],
+            "link": "https://taomarketcap.com/"
+          },
+          "Taopill.ai": {
+            "tags": ["Data", "TAO", "Bittensor", "Sources"],
+            "link": "https://taopill.ai/"
+          },
+          "Taostats.io": {
+            "tags": ["Statistics", "Data", "Bittensor", "Sources"],
+            "link": "https://taostats.io/"
+          },
+          "Subnets Station": {
+            "tags": ["Subnets", "Station", "Data", "Bittensor", "Sources"],
+            "link": "https://x.com/SubnetStation"
+          }
+        }
+      },
+      "Staking calculator": {
+        "tags": ["Staking", "Calculation", "Finance", "Bittensor", "Taoostats"],
+        "link": "https://taostats.io/staking"
+      },
+      "Statistics": {
+        "tags": ["Statistics", "Data", "Bittensor", "TaoStats"],
+        "link": "https://taostats.io/"
+      },
+      "TAO 5": {
+        "tags": ["TAO", "Social", "Bittensor"],
+        "children": {
+          "Website": {
+            "tags": ["Website", "Bittensor", "TAO 5"],
+            "link": "https://tao5.com/"
+          },
+          "X account": {
+            "tags": ["Social Media", "Twitter", "Bittensor", "TAO 5"],
+            "link": "https://x.com/tao_five?t=Q29UjlWonWi0JkgZR3wYkA&s=09"
+          }
+        }
+      },
+      "$TAO Alerts": {
+        "tags": ["Alerts", "TAO", "Notifications", "Bittensor"],
+        "link": "https://x.com/bittensor_alert?t=eEjgioxhfJwn09g0FSDaBg&s=09"
+      },
+      "Telegram: Bittensor Community Channel": {
+        "tags": ["Telegram", "Community", "Bittensor"],
+        "link": "https://t.me/taobittensor"
+      },
+      "Tokenomics": {
+        "tags": ["Tokenomics", "Tokens", "Bittensor"],
+        "link": "https://blog.bittensor.com/tao-token-economy-explained-17a3a90cd44e"
+      },
+      "Validators": {
+        "tags": ["Network", "Validators", "Bittensor", "Taostats"],
+        "link": "https://taostats.io/validators"
+      },
+      "Buy DEX $TAO": {
+        "tags": ["DEX", "Exchange", "TAO", "Bittensor"],
+        "children": {
+          "Uniswap $WTAO": {
+            "tags": ["DEX", "Exchange", "TAO", "Bittensor", "Uniswap", "WTAO", "Buy DEX $TAO"],
+            "link": "https://app.uniswap.org/swap?outputCurrency=0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44"
+          },
+          "Uniswap $stTAO": {
+            "tags": ["DEX", "Exchange", "TAO", "Bittensor", "Uniswap", "stTAO", "Buy DEX $TAO"],
+            "link": "https://app.uniswap.org/swap?outputCurrency=0xB60acD2057067DC9ed8c083f5aa227a244044fD6"
+          }
+        }
+      },
+      "EVM": {
+        "tags": ["Blockchain", "EVM", "Bittensor"],
+        "children": {
+          "Docs - Bittensor": {
+            "tags": ["Documentation", "Guide", "EVM", "Bittensor"],
+            "link": "https://docs.bittensor.com/evm-tutorials/"
+          },
+          "EVM/ txs": {
+            "tags": ["Transactions", "EVM", "Bittensor", "Taostats"],
+            "link": "https://taostats.io/evm/txs"
+          }
+        }
+      },
+      "Grayscale": {
+        "tags": ["Finance", "Grayscale", "Bittensor"],
+        "children": {
+          "Grayscale Decentralized AI Fund": {
+            "tags": ["Finance", "AI Fund", "Grayscale", "Bittensor"],
+            "link": "https://www.grayscale.com/crypto-products/grayscale-decentralized-ai-fund#section6362"
+          },
+          "Grayscale Bittensor Trust": {
+            "tags": ["Finance", "Trust", "Grayscale", "Bittensor"],
+            "link": "https://www.grayscale.com/crypto-products/grayscale-bittensor-trust"
+          },
+          "Yumaai.com": {
+            "tags": ["Yuma", "Finance", "Grayscale", "Bittensor"],
+            "link": "https://yumaai.com/"
+          }
+        }
+      },
+      "Halving Countdown, by Learn Bittensor": {
+        "tags": ["Countdown", "Halving", "Education", "Bittensor"],
+        "link": "https://learnbittensor.org/explore/concept/halving"
+      },
+      "Ledger Hardware Wallet": {
+        "tags": ["Wallet", "Hardware", "Ledger", "Bittensor"],
+        "link": "https://docs.bittensor.com/staking-and-delegation/using-ledger-hw-wallet"
+      },
+      "Linkedin": {
+        "tags": ["Social", "Professional", "Linkedin", "Bittensor"],
+        "children": {
+          "Opentensor Foundation": {
+            "tags": ["Foundation", "Opentensor", "Linkedin", "Bittensor"],
+            "link": "https://ca.linkedin.com/company/bittensor"
+          }
+        }
+      },
+      "Pushing TAO": {
+        "tags": ["TAO", "Updates", "Bittensor Images"],
+        "link": "https://pushingtao.com/"
+      },
+      "Reddit": {
+        "tags": ["Social", "Community", "Reddit", "Bittensor"],
+        "children": {
+          "r/bittensor_": {
+            "tags": ["Subreddit", "Community", "Bittensor", "Reddit"],
+            "link": "https://www.reddit.com/r/bittensor_/"
+          }
+        }
+      },
+      "Scan": {
+        "tags": ["Blockchain", "Explorer", "Scan", "Bittensor"],
+        "link": "https://bittensor.com/scan"
+      },
+      "Documentary Bittensor": {
+        "tags": ["Documentary", "Media", "Bittensor"],
+        "link": "https://www.youtube.com/watch?v=reJiNaqJIfg"
+      },
+      "Buy CEX $TAO": {
+        "tags": ["Exchange", "CEX", "TAO", "Bittensor"],
+        "children": {
+          "Binance": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://www.binance.com/en/trade/TAO_USDT?type=spot"
+          },
+          "Bingx": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://bingx.com/en/spot/TAOUSDT/"
+          },
+          "Bitget": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://www.bitget.com/spot/TAOUSDT"
+          },
+          "Bitmart": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://www.bitmart.com/trade/en-US?symbol=TAO_USDT"
+          },
+          "Bitpanda": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://www.bitpanda.com/en/uk"
+          },
+          "Bitrue": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://www.bitrue.com/trade/tao_usdt"
+          },
+          "Bittensor.exchange": {
+            "tags": ["Exchange", "CEX", "Official", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://bittensor.exchange/"
+          },
+          "Coinex": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://www.coinex.com/en/info/TAO"
+          },
+          "Crypto.com": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://crypto.com/"
+          },
+          "Gate.io": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://www.gate.io/trade/TAO_USDT"
+          },
+          "Kraken": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://pro.kraken.com/app/trade/tao-usd"
+          },
+          "Mexc": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://www.mexc.com/exchange/TAO_USDT"
+          },
+          "Phemex": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://phemex.com/spot/trade/TAOUSDT"
+          },
+          "RocketX": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://app.rocketx.exchange/swap/BITTENSOR.bittensor/"
+          },
+          "Kucoin": {
+            "tags": ["Exchange", "CEX", "TAO", "Bittensor", "Buy CEX $TAO"],
+            "link": "https://www.kucoin.com/trade/TAO-USDT"
+          }
+        }
+      },
+      "Blog Bittensor by Opentensor Foundation": {
+        "tags": ["Blog", "Opentensor", "Foundation", "Bittensor"],
+        "link": "https://blog.bittensor.com/"
+      },
+      "Co-founder": {
+        "tags": ["Team", "Co-founder", "Bittensor"],
+        "children": {
+          "Jacob Robert Steeves alias Const": {
+            "tags": ["Co-founder", "Team", "Bittensor", "LinkedIn", "X Account"],
+            "children": {
+              "X Account": {
+                "tags": ["Social Media", "X", "Co-founder", "Bittensor", "Jacob Robert Steeves"],
+                "link": "https://x.com/const_reborn?t=fDWhHQFkBs38qFHFjLamzQ&s=09"
+              },
+              "LinkedIn": {
+                "tags": ["Social Media", "Professional", "Co-founder", "Bittensor", "Jacob Robert Steeves"],
+                "link": "https://cr.linkedin.com/in/jacob-robert-steeves-7b0629b8"
+              }
+            }
+          },
+          "Ala Shaabana alias shibshib": {
+            "tags": ["Co-founder", "Team", "Bittensor", "LinkedIn", "X Account"],
+            "children": {
+              "X Account": {
+                "tags": ["Social Media", "X", "Co-founder", "Bittensor", "Ala Shaabana"],
+                "link": "https://x.com/shibshib89?t=h-G_X36IahrHliJ-GYlzZA&s=09"
+              },
+              "LinkedIn": {
+                "tags": ["Social Media", "Professional", "Co-founder", "Bittensor", "Ala Shaabana"],
+                "link": "https://www.linkedin.com/in/ashaabana"
+              }
+            }
+          },
+          "Yuma RAO": {
+            "tags": ["Co-founder", "Team", "Bittensor"]
+          }
+        }
+      },
+      "DeFi": {
+        "tags": ["Finance", "DeFi", "Bittensor"],
+        "children": {
+          "TaoFi": {
+            "tags": ["Finance", "DeFi", "Bittensor", "TaoFi"],
+            "children": {
+              "X account": {
+                "tags": ["Social Media", "X", "DeFi", "TaoFi", "Bittensor"],
+                "link": "https://x.com/_taofi_"
+              },
+              "Discord TaoFi": {
+                "tags": ["Community", "Discord", "DeFi", "TaoFi", "Bittensor"],
+                "link": "https://discord.com/invite/H8wfB92gUA"
+              }
+            }
+          }
+        }
+      },
+      "Discord Bittensor": {
+        "tags": ["Community", "Discord", "Bittensor"],
+        "link": "https://discord.com/invite/bittensor"
+      },
+      "Discover the Bittensor Network": {
+        "tags": ["Network", "Discovery", "Bittensor"],
+        "children": {
+          "Interact with your favorite subnets, TAO.BOT": {
+            "tags": ["Interaction", "TAO.BOT", "Bittensor", "Subnets"],
+            "link": "https://itao.bot/"
+          },
+          "Playground.Corcel": {
+            "tags": ["Playground", "Tool", "Bittensor"],
+            "link": "https://playground.corcel.io/"
+          },
+          "Learn Bittensor": {
+            "tags": ["Learning", "Education", "Bittensor"],
+             "link": "https://learnbittensor.org/",
+            "children": {
+              "Discord": {
+                "tags": ["Community", "Discord", "Learn Bittensor", "Bittensor"],
+                "link": "https://discord.com/invite/8t87WydGwq"
+              },
+              "X account": {
+                "tags": ["Social Media", "X", "Learn Bittensor", "Bittensor"],
+                "link": "https://x.com/learnbittensor"
+              }
+            }
+          }
+        }
+      },
+      "Discord TAO community": {
+        "tags": ["Community", "Discord", "TAO", "Bittensor"],
+        "link": "https://discord.com/invite/TMX2dWrjkE"
+      },
+      "Bittensor Community Channels in different languages": {
+        "tags": ["Community", "Multilingual", "Bittensor"],
+        "children": {
+          "Balkans": {
+            "tags": ["Community", "Language", "Bittensor", "Balkans"],
+            "link": "https://t.me/bittensorbalkan"
+          },
+          "Dutch": {
+            "tags": ["Community", "Language", "Bittensor", "Dutch"],
+            "link": "https://t.me/BittensorNL"
+          },
+          "French": {
+            "tags": ["Community", "Language", "Bittensor", "French"],
+            "link": "https://t.me/bittensorFR"
+          },
+          "German": {
+            "tags": ["Community", "Language", "Bittensor", "German"],
+            "link": "https://t.me/BitTensorGermany"
+          },
+          "Indonesia": {
+            "tags": ["Community", "Language", "Bittensor", "Indonesia"],
+            "link": "https://t.me/bittensorindonesia"
+          },
+          "Spanish": {
+            "tags": ["Community", "Language", "Bittensor", "Spanish"],
+            "link": ""
+          },
+          "Turkish": {
+            "tags": ["Community", "Language", "Bittensor", "Turkish"],
+            "link": "https://t.me/BitTensorTurkiye"
+          },
+          "Italia": {
+            "tags": ["Community", "Language", "Bittensor", "Italian"],
+            "link": "https://t.me/bittensoritalia"
+          },
+          "Russian": {
+            "tags": ["Community", "Language", "Bittensor", "Russian"],
+            "link": "https://t.me/BittensorCIS"
+          },
+          "中文群": {
+            "tags": ["Community", "Language", "Bittensor", "Chinese"],
+            "link": "https://t.me/+gfHMuhQ1Sgk3YmNl"
+          }
+        }
+      },
+      "Bittensor Paradigm": {
+        "tags": ["Research", "Theory", "Bittensor"],
+        "link": "https://bittensor.com/about"
+      },
+      "Bittensor understanding and education": {
+        "tags": ["Education", "Learning", "Bittensor"],
+         "link": "https://x.com/i/lists/1789543447679934829",
+        "children": {
+          "Episodes Bittensor Guru": {
+            "tags": ["Education", "Media", "Bittensor", "Episodes", "podcast"],
+            "link": "https://bittensor.guru/"
+          },
+          "Youtube /@bittingthembits": {
+            "tags": ["Youtube", "Media", "Bittensor", "Education"],
+            "link": "https://www.youtube.com/@bittingthembits"
+          },
+          "Youtube /@evert_scott": {
+            "tags": ["Youtube", "Media", "Bittensor", "Education"],
+            "link": "https://www.youtube.com/@evert_scott"
+          },
+          "Youtube /@grayscaleinvestments": {
+            "tags": ["Youtube", "Media", "Bittensor", "Education"],
+            "link": "https://www.youtube.com/live/vIR0DcEwQMc"
+          },
+          "Youtube /@opentensor": {
+            "tags": ["Youtube", "Media", "Bittensor", "Education"],
+            "link": "https://www.youtube.com/@opentensor"
+          },
+          "Youtube /@taostats": {
+            "tags": ["Youtube", "Media", "Bittensor", "Education"],
+            "link": "https://www.youtube.com/@taostats"
+          },
+          "Youtube /@taotemplar": {
+            "tags": ["Youtube", "Media", "Bittensor", "Education"],
+            "link": "https://www.youtube.com/@taotemplar"
+          }
+        }
+      }
+    }
+  }
+  
+  

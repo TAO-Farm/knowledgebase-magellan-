@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN31: NAS-Chain": {
+      "description": "Neural Architecture Search (NAS) is a critical field in machine learning that focuses on automating the design of artificial neural network architectures. As deep neural network models become increasingly complex and computationally expensive, the significance of NAS grows. The primary goal of NAS is to identify the optimal model that not only maximizes accuracy for a given use-case but also minimizes the number of parameters and the computational cost, measured in Floating Point Operations (FLOPs). However, performing such searches can be very resource-intensive, often requiring days or weeks of computation on hundreds of GPUs to find an optimal model. NASChain aims to address these challenges by leveraging the power of the Bittensor network and an innovative incentive mechanism. This approach distributes NAS tasks among participants (referred to as miners), thereby decentralizing the computational effort and potentially reducing the time and resources required for finding efficient and effective neural architectures.",
+      "tags": ["SN31", "Subnet-31", "NAS-Chain", "Subnet 31"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN31", "NAS-Chain", "Subnet 31"],
+          "link": "https://github.com/mutexlocker/NASChain"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "SN31", "NAS-Chain", "Subnet 31"],
+          "link": "https://dashboard.naschain.ai/visualizer"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN31", "NAS-Chain", "Subnet 31"],
+          "link": "https://taostats.io/subnets/31/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN31", "NAS-Chain", "Subnet 31"],
+          "link": "https://naschain.grafana.net"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN31", "NAS-Chain", "Subnet 31"],
+          "link": "https://x.com/naschain_ai"
+        },
+        "Discord-Bittensor-SN31": {
+          "tags": ["Community", "Discord", "SN31", "NAS-Chain", "Subnet 31"],
+          "link": "https://discord.com/channels/799672011265015819/1222990781577433232"
+        }
+      }
+    }
+  }
+}

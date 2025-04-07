@@ -1,0 +1,47 @@
+{
+  "Subnets": {
+    "SN32: Its-AI": {
+      "description": "Our subnet incentivizes the development of distributed solutions aimed at identifying LLM-generated content. Given the rapid growth of LLM-generated text, such as ChatGPT's output of 100 billion words daily compared to humans' 100 trillion, we believe that the ability to accurately determine AI-generated text will become increasingly necessary.",
+      "tags": ["SN32", "Subnet-32", "Its-AI", "Subnet 32"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN32", "Its-AI", "Subnet 32"],
+          "link": "https://github.com/It-s-AI/llm-detection"
+        },
+        "Linktree": {
+          "tags": ["Links", "Resources", "SN32", "Its-AI", "Subnet 32"],
+          "link": "https://linktr.ee/itsaisubnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN32", "Its-AI", "Subnet 32"],
+          "link": "https://taostats.io/subnets/32/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN32", "Its-AI", "Subnet 32"],
+          "link": "https://its-ai.org/"
+        },
+        "App-Its-AI": {
+          "tags": ["Application", "Its-AI", "SN32", "Subnet 32"],
+          "link": "https://app.its-ai.org/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN32", "Its-AI", "Subnet 32"],
+          "link": "https://x.com/ai_detection?t=Kc0PKv7ROnxJnGML3hTY4Q&s=09"
+        },
+        "Support-&-Growth-of-dTAO": {
+          "tags": ["Support", "Community", "SN32", "Its-AI", "Subnet 32"],
+          "children": {
+            "Source": {
+              "tags": ["Source", "Documentation", "SN32", "Its-AI", "Subnet 32"],
+              "link": "https://x.com/ai_detection/status/1892578067983274011?t=fZVjfFL2QiXJqBkS6g_XpQ&s=19"
+            }
+          }
+        },
+        "Discord-Bittensor-SN32": {
+          "tags": ["Community", "Discord", "SN32", "Its-AI", "Subnet 32"],
+          "link": "https://discord.com/channels/799672011265015819/1215319932062011464"
+        }
+      }
+    }
+  }
+}

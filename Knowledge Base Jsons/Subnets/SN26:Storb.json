@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN26: Storb": {
+      "description": "Storb is a decentralized object storage subnet built on the Bittensor network. It aims to be a distributed, fault-tolerant, and efficient digital storage solution.",
+      "tags": ["SN26", "Subnet-26", "Storb", "Subnet 26"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN26", "Storb", "Subnet 26"],
+          "link": "https://github.com/storb-tech/storb-py"
+        },
+        "Discord": {
+          "tags": ["Community", "Chat", "SN26", "Storb", "Subnet 26"],
+          "link": "https://discord.com/invite/tensoralchemy"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN26", "Storb", "Subnet 26"],
+          "link": "https://taostats.io/subnets/26/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN26", "Storb", "Subnet 26"],
+          "link": "https://storb.dev/"
+        },
+        "Discord-Storb": {
+          "tags": ["Community", "Discord", "Storb", "SN26", "Subnet 26"],
+          "link": "https://discord.com/invite/dGGq7PRU4F"
+        }
+      }
+    }
+  }
+}

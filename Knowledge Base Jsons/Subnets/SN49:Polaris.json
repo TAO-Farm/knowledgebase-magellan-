@@ -1,0 +1,26 @@
+{
+  "Subnets": {
+    "SN49: Polaris": {
+      "description": "Hivetrain's Incentivized AutoML Loss Subnet, a collaborative platform dedicated to revolutionizing deep learning by automating the discovery of improved and novel neural network components such as loss functions, activation functions, and potentially new algorithms that surpass the current state-of-the-art. Inspired by the AutoML Zero paper, we leverage genetic programming to progressively develop increasingly complex mathematical functions using evolutionary and gradient-based optimization.",
+      "tags": ["SN49", "Subnet-49", "Polaris", "Subnet 49"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN49", "Polaris", "Subnet 49"],
+          "link": "https://github.com/bigideaafrica/polaris"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN49", "Polaris", "Subnet 49"],
+          "link": "https://taostats.io/subnets/49/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN49", "Polaris", "Subnet 49"],
+          "link": "https://www.polariscloud.ai/#Home"
+        },
+        "Discord-Bittensor-SN49": {
+          "tags": ["Community", "Discord", "SN49", "Polaris", "Subnet 49"],
+          "link": "https://discord.com/channels/799672011265015819/1174839377659183174"
+        }
+      }
+    }
+  }
+}

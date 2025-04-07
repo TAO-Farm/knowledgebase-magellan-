@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN15: De-Val": {
+      "description": "Welcome to De-Val, the pioneering decentralized evaluation subnet for large language models (LLMs). Built on the robust Bittensor network, De-Val offers unmatched objectivity and reliability in evaluating LLM outputs, tackling challenges such as hallucinations, misattributions, relevancy, and summary completeness. Our unique approach leverages synthetic data for initial training with long-term plans to provide evaluation and monitoring capabilities for businesses looking to improve their own LLM-based solutions through A/B testing or offline validation. Our primary focus is evaluation in the context of RAG-based scenarios to help businesses answer questions such as: How accurate is my LLM given the provided context? How comprehensive are our abstractive summaries? Are we missing key details? Can we correctly identify key users and match their names to relevant action items? In our first iteration of the subnet, we will release evaluators focused on: Hallucination Detection: Identifying false or nonsensical outputs within LLM summaries given a RAG context. Misattribution Correction: Measuring participant attribution accuracy in LLM summaries from sales calls, meetings, general chat messages, etc. Summary Completeness: Evaluating the thoroughness and reliability of generated summaries. Relevancy: Binary prediction of whether a response is relevant to a user's query or not.",
+      "tags": ["Subnet", "SN15", "Subnet 15", "De-Val"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "De-Val", "SN15", "Subnet 15"],
+          "link": "https://github.com/deval-core/De-Val"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "De-Val", "SN15", "Subnet 15"],
+          "link": "https://taostats.io/subnets/15/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "De-Val", "SN15", "Subnet 15"],
+          "link": "https://www.de-val.ai/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "De-Val", "SN15", "Subnet 15"],
+          "link": "https://x.com/de_valAI"
+        },
+        "Discord Bittensor SN15": {
+          "tags": ["Community", "Discord", "Bittensor", "SN15", "Subnet 15"],
+          "link": "https://discord.com/channels/799672011265015819/1272557411948957697"
+        }
+      }
+    }
+  }
+}

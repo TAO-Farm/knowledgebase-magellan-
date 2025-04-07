@@ -1,0 +1,11 @@
+{
+  "SN82-Unknown": {
+    "tags": ["SN82", "Subnet-82", "Unknown", "Subnet 82"],
+    "children": {
+      "Metagraph": {
+        "tags": ["Metagraph", "SN82", "Unknown", "Subnet 82"],
+        "link": "https://taostats.io/subnets/82/chart"
+      }
+    }
+  }
+}

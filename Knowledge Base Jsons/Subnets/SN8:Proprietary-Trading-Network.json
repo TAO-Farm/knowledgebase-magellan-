@@ -1,0 +1,54 @@
+{
+  "Subnets": {
+    "SN8: Proprietary-Trading-Network": {
+      "description": "PTN receives signals from quant and deep learning machine learning trading systems to deliver the world's most complete trading signals across a variety of asset classes.",
+      "tags": ["Subnet", "SN8", "Subnet 8", "Proprietary Trading Network", "PTN"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://github.com/taoshidev/proprietary-trading-network"
+        },
+        "Documentation": {
+          "tags": ["Documentation", "Guide", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://docs.taoshi.io/"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "Analytics", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://dashboard.taoshi.io/"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://taostats.io/subnets/8/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://www.taoshi.io/"
+        },
+        "LinkedIn": {
+          "tags": ["Social Media", "Professional", "LinkedIn", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://www.linkedin.com/company/taoshiio/"
+        },
+        "Delatapropshop.Trading": {
+          "tags": ["Trading", "Platform", "Delatapropshop", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://www.deltapropshop.io/home"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://x.com/taoshiio?t=cSKUA5pGjuOXDzmjBpVsvQ&s=09"
+        },
+        "Source": {
+          "tags": ["Social Media", "Source", "X", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://x.com/taoshiio/status/1892620232965099771?t=DoME56tRDq6nFI7XcftmbQ&s=19"
+        },
+        "Discord Taoshi community Hub": {
+          "tags": ["Community", "Discord", "Taoshi", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://discord.com/invite/Jk38jWbt6D"
+        },
+        "Discord Bittensor SN8": {
+          "tags": ["Community", "Discord", "Bittensor", "Proprietary Trading Network", "SN8", "Subnet 8"],
+          "link": "https://discord.com/channels/799672011265015819/1162384774170677318"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Subnets": {
+    "SN25: Protein-Folding": {
+      "description": "SN25 is our dedicated protein-folding subnet. Protein folding is one of the hardest problems in science, requiring vast compute power. While recent breakthroughs such as AlphaFold3 are very effective, their centralized compute means that cost per query is still too high. Harnessing distributed compute drives down cost per query. SN25 gives scientists the tools they need to fold proteins. Its competitive design incentivizes miners to develop protein-folding machine learning models as efficiently as possible, driving down cost even as performance improves. Protein-folding is just the start. By demonstrating the advantages of distributed compute for solving complex challenges, SN25 is pioneering cutting-edge scientific research on the blockchain.",
+      "tags": ["SN25", "Subnet-25", "Protein-Folding", "Subnet 25"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://github.com/macrocosm-os/folding/"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "Monitoring", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://www.macrocosmos.ai/sn25/dashboard"
+        },
+        "Substack": {
+          "tags": ["Substack", "Newsletter", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://macrocosmosai.substack.com/t/protein-folding"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://taostats.io/subnets/25/metagraph"
+        },
+        "Linkedin": {
+          "tags": ["Social", "Linkedin", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://www.linkedin.com/company/macrocosmosai/"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://www.macrocosmos.ai/sn25"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://x.com/MacrocosmosAI"
+        },
+        "Discord-Macrocosmos-AI": {
+          "tags": ["Social", "Discord", "Macrocosmos-AI", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://discord.com/channels/1238450997848707082/1238453047848599562"
+        },
+        "Discord-Bittensor-SN25": {
+          "tags": ["Social", "Discord", "Bittensor", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://discord.com/channels/799672011265015819/1234881153832321024"
+        },
+        "Telegram-Macrocosmos": {
+          "tags": ["Social", "Telegram", "Macrocosmos", "SN25", "Protein-Folding", "Subnet 25"],
+          "link": "https://t.me/MacrocosmosAI"
+        }
+      }
+    }
+  }
+}

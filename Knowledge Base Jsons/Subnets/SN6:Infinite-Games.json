@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN6: Infinite-Games": {
+      "description": "We incentivize the prediction of future events. We currently restrict the prediction space to binary future events listed on Polymarket and on Azuro. We will expand soon to new markets and providers. We are focused on judgemental forecasting rather than statistical forecasting. We hence expect the models used by miners to be LLMs.",
+      "tags": ["Subnet", "SN6", "Subnet 6", "Infinite-Games"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Infinite-Games", "SN6", "Subnet 6"],
+          "link": "https://github.com/amedeo-gigaver/infinite_games/"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "Management", "Infinite-Games", "SN6", "Subnet 6"],
+          "link": "https://app.hex.tech/1644b22a-abe5-4113-9d5f-3ad05e4a8de7/app/5f1e0e62-6072-4440-9646-6d2b60cd1674/latest"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Infinite-Games", "SN6", "Subnet 6"],
+          "link": "https://taostats.io/subnets/6/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Infinite-Games", "SN6", "Subnet 6"],
+          "link": "https://www.infinitegam.es/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "Infinite-Games", "SN6", "Subnet 6"],
+          "link": "https://x.com/Playinfgames"
+        },
+        "Discord Bittensor SN6": {
+          "tags": ["Community", "Discord", "Bittensor", "Infinite-Games", "SN6", "Subnet 6"],
+          "link": "https://discord.com/channels/799672011265015819/1209554949449457705"
+        }
+      }
+    }
+  }
+}

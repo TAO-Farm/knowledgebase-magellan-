@@ -1,0 +1,30 @@
+{
+  "Subnets": {
+    "SN56: Gradient": {
+      "description": "With just a few clicks, Gradients will train your model for you no AI knowledge required. The simplest and best place in the world to train a model, it's a platform that makes AI training easier than ever, powered by the new and revolutionary Bittensor Subnet 56.",
+      "tags": ["SN56", "Subnet-56", "Gradient", "Subnet 56"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN56", "Gradient", "Subnet 56"],
+          "link": "https://github.com/rayonlabs/G.O.D"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN56", "Gradient", "Subnet 56"],
+          "link": "https://taostats.io/subnets/56/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN56", "Gradient", "Subnet 56"],
+          "link": "https://gradients.io/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN56", "Gradient", "Subnet 56"],
+          "link": "https://x.com/rayon_labs?t=IvD3v7tqGnG7-WBznuG8LQ&s=09"
+        },
+        "Discord-Bittensor-SN56": {
+          "tags": ["Communication", "Discord", "SN56", "Gradient", "Subnet 56"],
+          "link": "https://discord.com/channels/799672011265015819/1311360495428702240"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN16: BitAds": {
+      "description": "BitAds introduces a revolutionary approach to online marketing through a decentralized network built on Bittensor (Subnet 16). Aiming to disrupt the traditional marketing industry, BitAds offers a solution that significantly reduces costs for clients while incentivizing miners to promote and bring sales to marketing campaigns. This whitepaper outlines the BitAds project, including its integration with the Bittensor network, the incentive mechanism for miners, the technology architecture, and the advantages it offers over existing advertising methods. The digital marketing and advertising market, valued at US$913 billion in 2024, is ripe for innovation. BitAds proposes a decentralized marketing network that leverages the Bittensor network to offer unparalleled marketing power at a fraction of current costs.",
+      "tags": ["Subnet", "SN16", "Subnet 16", "BitAds"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "BitAds", "SN16", "Subnet 16"],
+          "link": "https://github.com/eseckft/BitAds.ai"
+        },
+        "White paper": {
+          "tags": ["Documentation", "White Paper", "BitAds", "SN16", "Subnet 16"],
+          "link": "https://bitads.ai/whitepaper"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "BitAds", "SN16", "Subnet 16"],
+          "link": "https://taostats.io/subnets/16/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "BitAds", "SN16", "Subnet 16"],
+          "link": "https://bitads.ai/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "BitAds", "SN16", "Subnet 16"],
+          "link": "https://x.com/BitAds_AI"
+        },
+        "Discord Bittensor SN16": {
+          "tags": ["Community", "Discord", "Bittensor", "SN16", "Subnet 16"],
+          "link": "https://discord.com/channels/799672011265015819/1189234502669697064"
+        }
+      }
+    }
+  }
+}

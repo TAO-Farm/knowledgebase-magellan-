@@ -1,0 +1,47 @@
+{
+  "Subnets": {
+    "SN41: SportsTensor": {
+      "description": "Welcome to Sportstensor—the convergence of cutting-edge technology and sports data analytics. We are pioneering unprecedented innovation in sports prediction algorithms, powered by the Bittensor network. Our Sportstensor subnet is designed to incentivize the discovery of competitive advantages over closing market odds, enabling top miners within the network to establish machine-driven dominance across the sports prediction landscape.",
+      "tags": ["SN41", "Subnet-41", "SportsTensor", "Subnet 41"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN41", "SportsTensor", "Subnet 41"],
+          "link": "https://github.com/sportstensor/sportstensor"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN41", "SportsTensor", "Subnet 41"],
+          "link": "https://www.sportstensor.com/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN41", "SportsTensor", "Subnet 41"],
+          "link": "https://x.com/sportstensor"
+        },
+        "Medium-dTAO": {
+          "tags": ["Publication", "Medium", "dTAO", "SN41", "SportsTensor", "Subnet 41"],
+          "link": "https://medium.com/@luxojr2/beton-llc-a-study-in-bittensors-ability-to-produce-intelligence-15ef4eb2de21"
+        },
+        "Medium": {
+          "tags": ["Publication", "Medium", "SN41", "SportsTensor", "Subnet 41"],
+          "link": "https://medium.com/@sportstensor"
+        },
+        "Support-Growth-dTAO": {
+          "tags": ["Support", "Growth", "dTAO", "SN41", "SportsTensor", "Subnet 41"],
+          "children": {
+            "Source": {
+              "tags": ["Source", "Documentation", "SN41", "SportsTensor", "Subnet 41"],
+              "link": "https://x.com/sportstensor/status/1892270669682913641"
+            }
+          }
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN41", "SportsTensor", "Subnet 41"],
+          "link": "https://taostats.io/subnets/41/metagraph"
+        },
+        "Discord-Bittensor-SN41": {
+          "tags": ["Community", "Discord", "Bittensor", "SN41", "SportsTensor", "Subnet 41"],
+          "link": "https://discord.com/channels/799672011265015819/1263142301786574889"
+        }
+      }
+    }
+  }
+}

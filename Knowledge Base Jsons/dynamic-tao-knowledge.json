@@ -1,0 +1,155 @@
+{
+  "Dynamic TAO": {
+    "tags": ["Dynamic TAO"],
+    "Dynamic TAO Doc": {
+      "tags": ["Dynamic TAO", "dTAO", "Documentation"],
+      "link": "https://docs.bittensor.com/dynamic-tao/",
+      "children": {
+        "Core Dynamic TAO Concepts": {
+          "tags": ["Concepts", "Dynamic TAO", "dTAO"],
+          "link": "https://docs.bittensor.com/dynamic-tao/dtao-guide#:~:text=The%20key%20mechanism%20introduced%20with,subnet's%20alpha%20(%20%CE%B1)%20token",
+          "children": {
+            "ChatGPT - Bittensor dTAO": {
+              "tags": ["ChatGPT", "Bittensor", "dTAO", "AI"],
+              "link": "https://chatgpt.com/g/g-67ab853851e0819196c8310e4dc135f7-dynamic-tao"
+            },
+            "API Guide - chat OTF": {
+              "tags": ["API", "Guide", "OTF", "dTAO"],
+              "link": "https://chatgpt.com/share/678fb43b-293c-8007-9b86-9db307e67e85"
+            },
+            "Discord Bittensor (RAO topic)": {
+              "tags": ["Discord", "RAO", "Community"],
+              "link": "https://discord.com/invite/bittensor"
+            }
+          }
+        },
+        "dTAO DEX & UI": {
+          "tags": ["DEX", "UI", "Dynamic TAO", "dTAO"],
+          "children": {
+            "DEX backprop.finance": {
+              "tags": ["DEX", "Finance", "Backprop Finance"],
+              "link": "https://backprop.finance/",
+              "children": {
+                "Docs": {
+                  "tags": ["DEX", "Swap", "Backprop Finance"],
+                  "link": "https://docs.backprop.finance/"
+                }
+              }
+            },
+            "UI Dash TAOSTATS": {
+              "tags": ["UI", "Statistics"],
+              "link": "https://dash.taostats.io/login?redirectTo=%2F",
+              "children": {
+                "Video: Staking with the the Taostats Dashboard": {
+                  "tags": ["Taostats", "Dashboard", "Video"],
+                  "link": "https://www.youtube.com/watch?v=8Kjjefp5mK4&t=167s"
+                }
+              }
+            },
+            "TAO Dex Hotkeyswap": {
+              "tags": ["DEX", "Hotkey", "Swap"],
+              "link": "https://taodex.hotkeyswap.com/dtao"
+            },
+            "Bittensor Wallet": {
+              "tags": ["Wallet", "Bittensor", "dTAO"],
+              "link": "https://bittensor.com/wallet"
+            },
+            "UI Tao market cap": {
+              "tags": ["UI", "Market Cap"],
+              "link": "https://taomarketcap.com/"
+            },
+            "UI YUMA Group": {
+              "tags": ["UI", "Group", "YUMA"],
+              "link": "https://app.yumaai.com/"
+            },
+            "UI Talisman": {
+              "tags": ["UI", "Talisman", "Wallet"],
+              "link": "https://app.talisman.xyz/staking/"
+            }
+          }
+        },
+        "Education dTAO": {
+          "tags": ["Education", "Dynamic TAO", "dTAO"],
+          "children": {
+            "Videos": {
+              "tags": ["Videos", "Educational"],
+              "children": {
+                "TaoStats": {
+                  "tags": ["Videos", "Statistics"],
+                  "link": "https://www.youtube.com/@taostats"
+                },
+                "TaoTemplar": {
+                  "tags": ["Videos", "Educational", "dTAO"],
+                  "link": "https://x.com/TAOTemplar"
+                },
+                "Andy": {
+                  "tags": ["Videos", "dTAO", "Educational"],
+                  "link": "https://www.youtube.com/@bittingthembits"
+                },
+                "Open tensor": {
+                  "tags": ["Videos", "dTAO", "Educational"],
+                  "link": "https://www.youtube.com/@opentensor"
+                },
+                "Raleigh, CA": {
+                  "tags": ["Videos", "Location", "Educational"],
+                  "link": "https://www.youtube.com/@RaleighCA"
+                },
+                "Victor.crypto (EN) X account": {
+                  "tags": ["Victor.crypto", "Social Media", "Educational"],
+                  "link": "https://x.com/Victor_crypto_2"
+                }
+              }
+            },
+            "Articles": {
+              "tags": ["Articles", "Educational", "Documentation"],
+              "children": {
+                "Your Guide to Dynamic TAO": {
+                  "tags": ["Guide", "Dynamic TAO", "dTAO"],
+                  "link": "https://x.com/Victor_crypto_2"
+                },
+                "Telegram Alpha tracker": {
+                  "tags": ["Telegram", "Alpha", "Tracking"],
+                  "link": "https://t.me/taotracker"
+                },
+                "Telegram dTAO alpha": {
+                  "tags": ["Telegram", "dTAO", "Alpha"],
+                  "link": "https://t.me/+x-EhzL0c6Iw1Mzkx"
+                },
+                "White paper dTAO": {
+                  "tags": ["Whitepaper", "dTAO", "Documentation"],
+                  "link": "https://pdfupload.io/docs/2e6e12f7"
+                }
+              }
+            }
+          }
+        },
+        "Learnbittensor": {
+          "tags": ["Learning", "Educational", "Dynamic TAO", "dTAO"],
+          "children": {
+            "Subnet pool": {
+              "tags": ["Subnet", "Pool", "Dynamic TAO", "dTAO"],
+              "link": "https://learnbittensor.org/explore/concept/subnet-pool"
+            },
+            "Larent Holdings": {
+              "tags": ["Holdings", "Dynamic TAO", "dTAO"],
+              "link": "https://latent.to/"
+            }
+          }
+        },
+        "Mentat Minds": {
+          "tags": ["Mentat Minds", "Community", "Dynamic TAO", "dTAO"],
+          "children": {
+            "FAQ Mentat Minds": {
+              "tags": ["FAQ", "Community"],
+              "link": "https://mentatminds.com/faq/"
+            },
+            "DCA Script for staking $TAO into Bittensor subnet alpha tokens - by Const": {
+              "tags": ["DCA", "Staking", "Script", "dTAO"],
+              "link": "https://gist.github.com/josephjacks/32a4b1db0c191dff26687b6b5da1f984"
+            }
+          }
+        }
+      }
+    }
+  }
+}

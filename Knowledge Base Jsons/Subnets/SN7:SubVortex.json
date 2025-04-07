@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN7: SubVortex": {
+      "description": "SubVortex introduces an incentivized and decentralized network of subtensor nodes that are pivotal elements within the Bittensor ecosystem. This delineates the structure, objectives, and mechanisms of SubVortex, aiming to foster decentralization, stability, and efficient resource allocation within the broader Bittensor network. Subtensor nodes play a vital role in the Bittensor network, governing various aspects such as incentivization, governance, and network health. SubVortex aims to enhance the decentralization and functionality of Bittensor by establishing an incentivized network of subtensors. This whitepaper describes the goals, roles, and operational phases of SubVortex, outlining its contribution and value proposition to the Bittensor ecosystem.",
+      "tags": ["Subnet", "SN7", "Subnet 7", "SubVortex"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "SubVortex", "SN7", "Subnet 7"],
+          "link": "https://github.com/eclipsevortex/SubVortex"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "SubVortex", "SN7", "Subnet 7"],
+          "link": "https://taostats.io/subnets/7/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SubVortex", "SN7", "Subnet 7"],
+          "link": "https://www.subvortex.com/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "SubVortex", "SN7", "Subnet 7"],
+          "link": "https://x.com/SubVortexTao"
+        },
+        "Discord SubVortex": {
+          "tags": ["Community", "Discord", "SubVortex", "SN7", "Subnet 7"],
+          "link": "https://discord.com/invite/vYyzWsZSbh"
+        },
+        "Discord Bittensor SN7": {
+          "tags": ["Community", "Discord", "Bittensor", "SubVortex", "SN7", "Subnet 7"],
+          "link": "https://discord.com/channels/799672011265015819/1215311984799653918"
+        }
+      }
+    }
+  }
+}

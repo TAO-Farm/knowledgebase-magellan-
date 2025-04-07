@@ -1,0 +1,27 @@
+{
+  "SN68-Nova": {
+    "tags": ["SN68", "Subnet-68", "Nova", "Subnet 68"],
+    "children": {
+      "Github": {
+        "tags": ["Code", "Repository", "SN68", "Nova", "Subnet 68"],
+        "link": "https://github.com/metanova-labs/nova"
+      },
+      "Whitepaper": {
+        "tags": ["Document", "Research", "SN68", "Nova", "Subnet 68"],
+        "link": "https://www.metanova-labs.com/whitepaper"
+      },
+      "Website": {
+        "tags": ["Website", "Official", "SN68", "Nova", "Subnet 68"],
+        "link": "https://www.metanova-labs.com/"
+      },
+      "X-account": {
+        "tags": ["Social", "X", "SN68", "Nova", "Subnet 68"],
+        "link": "https://x.com/metanova_labs"
+      },
+      "Metagraph": {
+        "tags": ["Metagraph", "SN68", "Nova", "Subnet 68"],
+        "link": "https://taostats.io/subnets/68/chart"
+      }
+    }
+  }
+}

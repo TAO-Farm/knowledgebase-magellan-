@@ -1,0 +1,22 @@
+{
+  "Subnets": {
+    "SN65: TPN - Tensor Private Network": {
+      "description": "The TPN subnet coordinates miners that offer VPN connections in a wide variety of geographic locations. In the TPN subnet, there are two kinds of nodes: Miners: These nodes offer VPN connections to users and are rewarded for their service. Validators: These nodes validate the work of miners and act as an interface to end users.",
+      "tags": ["SN65", "Subnet-65", "TPN", "Tensor-Private-Network", "Subnet 65"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN65", "TPN", "Tensor-Private-Network", "Subnet 65"],
+          "link": "https://github.com/beyond-stake/tpn-subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN65", "TPN", "Tensor-Private-Network", "Subnet 65"],
+          "link": "https://taostats.io/subnets/65/chart"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN65", "TPN", "Tensor-Private-Network", "Subnet 65"],
+          "link": "https://x.com/RonXLabs"
+        }
+      }
+    }
+  }
+}

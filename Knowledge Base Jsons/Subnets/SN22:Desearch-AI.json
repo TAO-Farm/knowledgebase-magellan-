@@ -1,0 +1,38 @@
+{
+  "Subnets": {
+    "SN22: Desearch-AI": {
+      "description": "Bittensor Smart-Scrape: Streamlining Twitter Data Analysis on Subnet 22. Welcome to Smart-Scrape, a cutting-edge tool hosted on the Bittensor network, designed for effective and simplified analysis of Twitter data. This tool is ideal for researchers, marketers, and data analysts who seek to extract insightful information from Twitter with ease. Key Features: AI-Powered Analysis, Real-Time Data Access, Sentiment Analysis, Metadata Analysis, Time-Efficient, User-Friendly Design. Advantages: Decentralized Platform, Customizability, Informed Decision-Making, Versatility.",
+      "tags": ["SN22", "Subnet-22", "Desearch-AI", "Subnet 22"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN22", "Desearch-AI", "Subnet 22"],
+          "link": "https://github.com/Datura-ai/desearch"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN22", "Desearch-AI", "Subnet 22"],
+          "link": "https://taostats.io/subnets/22/metagraph"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN22", "Desearch-AI", "Subnet 22"],
+          "link": "https://x.com/fish_datura"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN22", "Desearch-AI", "Subnet 22"],
+          "link": "https://www.datura.ai/"
+        },
+        "App-chi.datura.ai": {
+          "tags": ["Application", "Desearch-AI", "SN22", "Subnet 22"],
+          "link": "https://chi.datura.ai/"
+        },
+        "App-Desearch-AI": {
+          "tags": ["Application", "Desearch-AI", "SN22", "Subnet 22"],
+          "link": "https://desearch.ai/"
+        },
+        "Console-datura.ai": {
+          "tags": ["Console", "Management", "Desearch-AI", "SN22", "Subnet 22"],
+          "link": "https://console.datura.ai/"
+        }
+      }
+    }
+  }
+}

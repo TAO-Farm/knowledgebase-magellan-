@@ -1,0 +1,28 @@
+{
+  "SN81-Patrol-TAO-com": {
+    "description": "Decentralized Palantir for TAO.com",
+    "tags": ["SN81", "Subnet-81", "Patrol", "TAO.com", "Subnet 81"],
+    "children": {
+      "Github": {
+        "tags": ["Code", "Repository", "SN81", "Patrol", "TAO.com", "Subnet 81"],
+        "link": ""
+      },
+      "Metagraph": {
+        "tags": ["Metagraph", "SN81", "Patrol", "TAO.com", "Subnet 81"],
+        "link": "https://taostats.io/subnets/81/chart"
+      },
+      "Website": {
+        "tags": ["Website", "Official", "SN81", "Patrol", "TAO.com", "Subnet 81"],
+        "link": "https://www.tao.com/"
+      },
+      "X-account": {
+        "tags": ["Social", "X", "SN81", "Patrol", "TAO.com", "Subnet 81"],
+        "link": "https://x.com/TensoraGroup"
+      },
+      "X-account-TAO-com": {
+        "tags": ["Social", "X", "SN81", "Patrol", "TAO.com", "Subnet 81"],
+        "link": "https://x.com/tao_dot_com"
+      }
+    }
+  }
+}

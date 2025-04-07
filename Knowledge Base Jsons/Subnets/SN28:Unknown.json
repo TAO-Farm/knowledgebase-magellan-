@@ -1,0 +1,29 @@
+{
+  "Subnets": {
+    "SN28: unknown": {
+      "tags": ["SN28", "Subnet-28", "unknown", "Subnet 28"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN28", "unknown", "Subnet 28"],
+          "link": ""
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN28", "unknown", "Subnet 28"],
+          "link": "https://taostats.io/subnets/28/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN28", "unknown", "Subnet 28"],
+          "link": ""
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN28", "unknown", "Subnet 28"],
+          "link": ""
+        },
+        "Discord-Bittensor-SN28": {
+          "tags": ["Community", "Chat", "Discord", "SN28", "unknown", "Subnet 28"],
+          "link": "https://discord.com/channels/799672011265015819/1211711222421000273"
+        }
+      }
+    }
+  }
+}

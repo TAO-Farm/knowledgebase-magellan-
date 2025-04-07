@@ -1,0 +1,42 @@
+{
+  "Subnets": {
+    "SN21: OMEGA Any-to-Any": {
+      "description": "OMEGA Any-to-Any is a decentralized, open-source AI project built on the Bittensor blockchain by OMEGA Labs. Our mission is to create state-of-the-art (SOTA) multimodal any-to-any models by attracting the world's top AI researchers to train on Bittensor, taking advantage of Bittensor's incentivized intelligence platform. Our goal is to establish a self-sustaining, well-resourced research lab, where participants are rewarded for contributing compute and/or research insight.",
+      "tags": ["Subnet", "SN21", "Subnet 21", "OMEGA", "Any-to-Any"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN21", "OMEGA", "Subnet 21"],
+          "link": "https://github.com/omegalabsinc/omegalabs-anytoany-bittensor"
+        },
+        "Dashboard": {
+          "tags": ["Dashboard", "Monitoring", "SN21", "OMEGA", "Subnet 21"],
+          "link": "https://www.sn21.ai/dashboard"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN21", "OMEGA", "Subnet 21"],
+          "link": "https://taostats.io/subnets/21/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN21", "OMEGA", "Subnet 21"],
+          "link": "https://focus.omega.inc/"
+        },
+        "SN21-Chat": {
+          "tags": ["Chat", "Communication", "SN21", "OMEGA", "Subnet 21"],
+          "link": "https://www.sn21.ai/chat"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN21", "OMEGA", "Subnet 21"],
+          "link": "https://x.com/omegalabsai"
+        },
+        "Discord-Focus": {
+          "tags": ["Community", "Discord", "Focus", "SN21", "OMEGA", "Subnet 21"],
+          "link": "https://discord.com/channels/1280253105086267484/@home"
+        },
+        "Discord-Bittensor-SN21": {
+          "tags": ["Community", "Discord", "SN21", "OMEGA", "Subnet 21"],
+          "link": "https://discord.com/channels/799672011265015819/1240801129177157692"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "SN79-Taos": {
+    "tags": ["SN79", "Subnet-79", "Taos", "Subnet 79"],
+    "children": {
+      "Metagraph": {
+        "tags": ["Metagraph", "SN79", "Taos", "Subnet 79"],
+        "link": "https://taostats.io/subnets/79/chart"
+      },
+      "Website": {
+        "tags": ["Website", "Official", "SN79", "Taos", "Subnet 79"],
+        "link": "https://www.taos.im/"
+      },
+      "X-account": {
+        "tags": ["Social", "X", "SN79", "Taos", "Subnet 79"],
+        "link": "https://x.com/taos_im"
+      },
+      "Medium": {
+        "tags": ["Medium", "Blog", "SN79", "Taos", "Subnet 79"],
+        "link": "https://medium.com/@7.taos.im/managing-risk-in-fractally-intelligent-markets-e40a47cbc60c"
+      }
+    }
+  }
+}

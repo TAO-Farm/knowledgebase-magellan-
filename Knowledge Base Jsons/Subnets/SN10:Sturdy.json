@@ -1,0 +1,38 @@
+{
+  "Subnets": {
+    "SN10: Sturdy": {
+      "description": "The Sturdy Subnet is a Bittensor subnetwork that enables the creation of decentralized, autonomous yield optimizers. A yield optimizer is a smart contract that seeks to provide users with the best possible yields by depositing assets to a variety of strategies. On the Sturdy Subnet, every yield optimizer has a fixed set of strategies (or 'pools') that it can deposit to. In turn, each pool has its own interest rate curve, described in more detail below. The goal for each miner is to create an algorithm that computes the allocation of assets among pools that results in the highest yield possible. Validators then evaluate miners based on how much yield their allocation produces.",
+      "tags": ["Subnet", "SN10", "Subnet 10", "Sturdy"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Sturdy", "SN10", "Subnet 10"],
+          "link": "https://github.com/Sturdy-Subnet/sturdy-subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Sturdy", "SN10", "Subnet 10"],
+          "link": "https://taostats.io/subnets/10/metagraph"
+        },
+        "Website Sturdy SN 10": {
+          "tags": ["Website", "Official", "Sturdy", "SN10", "Subnet 10"],
+          "link": "https://www.sturdysubnet.org/"
+        },
+        "Website Sturdy Finance": {
+          "tags": ["Website", "Finance", "Sturdy", "SN10", "Subnet 10"],
+          "link": "https://sturdy.finance/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "Sturdy", "SN10", "Subnet 10"],
+          "link": "https://x.com/SturdyFinance"
+        },
+        "Discord Sturdy": {
+          "tags": ["Community", "Discord", "Sturdy", "SN10", "Subnet 10"],
+          "link": "https://discord.com/invite/EQ8sTdzSAc"
+        },
+        "Discord Bittensor SN10": {
+          "tags": ["Community", "Discord", "Bittensor", "Sturdy", "SN10", "Subnet 10"],
+          "link": "https://discord.com/channels/799672011265015819/1217952256306057298"
+        }
+      }
+    }
+  }
+}

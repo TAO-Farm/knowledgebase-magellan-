@@ -1,0 +1,23 @@
+{
+  "SN70-Vericore": {
+    "tags": ["SN70", "Subnet-70", "Vericore", "Subnet 70"],
+    "children": {
+      "Github": {
+        "tags": ["Code", "Repository", "SN70", "Vericore", "Subnet 70"],
+        "link": "https://github.com/dfusionai/Vericore"
+      },
+      "Website": {
+        "tags": ["Website", "Official", "SN70", "Vericore", "Subnet 70"],
+        "link": "https://www.vericore.dfusion.ai/"
+      },
+      "Metagraph": {
+        "tags": ["Metagraph", "SN70", "Vericore", "Subnet 70"],
+        "link": "https://taostats.io/subnets/70/chart"
+      },
+      "X-account-dFusion-AI": {
+        "tags": ["Social", "X", "SN70", "Vericore", "dFusion AI", "Subnet 70"],
+        "link": "https://x.com/dFusionAI"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Subnets": {
+    "SN17: 3-Gen": {
+      "description": "3D generation subnet provides a platform to democratize 3D content creation, ultimately allowing anyone to create virtual worlds, games and AR/VR/XR experiences. This subnet leverages the existing fragmented and diverse landscape of Open Source 3D generative models ranging from Gaussian Splatting, Neural Radiance Fields, 3D Diffusion Models and Point-Cloud approaches to facilitate innovation - ideal for decentralized incentive-based networks via Bittensor. This subnet aims to kickstart the next revolution in gaming around AI native games, ultimately leveraging the broader Bittensor ecosystem to facilitate experiences in which assets, voice and sound are all generated at runtime. This would effectively allow a creative individual without any coding or game-dev experience to simply describe the game they want to create and have it manifested before them in real time.",
+      "tags": ["Subnet", "SN17", "Subnet 17", "3-Gen", "Bittensor"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Bittensor", "SN17", "Subnet 17"],
+          "link": "https://github.com/404-Repo/three-gen-subnet"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Bittensor", "SN17", "Subnet 17"],
+          "link": "https://taostats.io/subnets/17/metagraph"
+        },
+        "App": {
+          "tags": ["App", "Application", "Bittensor", "SN17", "Subnet 17"],
+          "link": "https://404.xyz/app"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Bittensor", "SN17", "Subnet 17"],
+          "link": "https://404.xyz/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "Bittensor", "SN17", "Subnet 17"],
+          "link": "https://x.com/404gen_"
+        },
+        "Discord 404": {
+          "tags": ["Discord", "Community", "Bittensor", "SN17", "Subnet 17"],
+          "link": "https://discord.com/invite/404gen"
+        },
+        "Discord Bittensor SN17": {
+          "tags": ["Discord", "Community", "Bittensor", "SN17", "Subnet 17"],
+          "link": "https://discord.com/channels/799672011265015819/1179081290289528864"
+        }
+      }
+    }
+  }
+}

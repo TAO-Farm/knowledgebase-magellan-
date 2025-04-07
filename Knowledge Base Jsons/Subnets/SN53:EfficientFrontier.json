@@ -1,0 +1,43 @@
+{
+  "Subnets": {
+    "SN53: EfficientFrontier": {
+      "description": "Efficient Frontier: a set of optimal portfolios that offer the highest expected return for a defined level of risk, or the lowest risk for a given level of expected return. Efficient Frontier is a project initiated by SignalPlus and Bittensor, designed to identify the optimal risk-weighted trading strategies through the integration of decentralized machine learning networks and live trading data. This project will leverage Bittensor's innovative blockchain-powered AI learning protocol to advance our journey in discovering optimal crypto trading strategies. Furthermore, through the use of SignalPlus' market-leading platform, every day users will now be equipped with a professional trading toolkit that is available right on their desktop, enabling true democratized access and empowering the open-access initiative.",
+      "tags": ["SN53", "Subnet-53", "EfficientFrontier", "Subnet 53"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN53", "EfficientFrontier", "Subnet 53"],
+          "link": "https://github.com/EfficientFrontier-SignalPlus/EfficientFrontier"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN53", "EfficientFrontier", "Subnet 53"],
+          "link": ""
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN53", "EfficientFrontier", "Subnet 53"],
+          "link": ""
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN53", "EfficientFrontier", "Subnet 53"],
+          "link": "https://x.com/Effi_Frontier"
+        },
+        "Discord-Bittensor-SN53": {
+          "tags": ["Social", "Discord", "Bittensor", "SN53", "EfficientFrontier", "Subnet 53"],
+          "link": "https://discord.com/channels/799672011265015819/1302975822554202142"
+        },
+        "Telegram": {
+          "tags": ["Social", "Telegram", "SN53", "EfficientFrontier", "Subnet 53"],
+          "link": "https://t.me/bittensor_subnet53"
+        },
+        "Support-&-Growth-of-dTAO": {
+          "tags": ["Support", "Growth", "dTAO", "SN53", "EfficientFrontier", "Subnet 53"],
+          "children": {
+            "Source": {
+              "tags": ["Source", "Documentation", "SN53", "EfficientFrontier", "Subnet 53"],
+              "link": "https://x.com/Effi_Frontier/status/1894008696793120968"
+            }
+          }
+        }
+      }
+    }
+  }
+}

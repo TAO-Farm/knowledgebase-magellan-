@@ -1,0 +1,46 @@
+{
+  "Subnets": {
+    "SN33: ReadyAI": {
+      "description": "ReadyAI is an open-source initiative aimed at providing a low-cost, low-resource data structuring and semantic tagging pipeline for any individual or business. AI works on structured data. ReadyAI is a low-cost structured data pipeline designed to transform your raw data into structured data for your vector databases and AI applications.",
+      "tags": ["SN33", "Subnet-33", "ReadyAI", "Subnet 33"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN33", "ReadyAI", "Subnet 33"],
+          "link": "https://github.com/afterpartyai/bittensor-conversation-genome-project"
+        },
+        "Linkedin": {
+          "tags": ["Social", "Linkedin", "SN33", "ReadyAI", "Subnet 33"],
+          "link": "https://www.linkedin.com/company/afterpartyai/"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN33", "ReadyAI", "Subnet 33"],
+          "link": "https://taostats.io/subnets/33/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN33", "ReadyAI", "Subnet 33"],
+          "link": "https://conversations.xyz/"
+        },
+        "Commoncrawl.org/ai-agent": {
+          "tags": ["Data", "AI-Agent", "SN33", "ReadyAI", "Subnet 33"],
+          "link": "https://commoncrawl.org/ai-agent"
+        },
+        "App-Chat-with-David-SN33": {
+          "tags": ["Application", "Chat", "David", "SN33", "ReadyAI", "Subnet 33"],
+          "link": "https://conversations.xyz/p/sn33_super_dave/artist_id-139"
+        },
+        "X-account-Conversation-Genome": {
+          "tags": ["Social", "X", "Conversation Genome", "SN33", "ReadyAI", "Subnet 33"],
+          "link": "https://x.com/conversationgen"
+        },
+        "X-account-Ready-AI": {
+          "tags": ["Social", "X", "Ready AI", "SN33", "ReadyAI", "Subnet 33"],
+          "link": "https://x.com/readyai_"
+        },
+        "Discord-Bittensor-SN33": {
+          "tags": ["Community", "Discord", "SN33", "ReadyAI", "Subnet 33"],
+          "link": "https://discord.com/channels/799672011265015819/1233428828479819876"
+        }
+      }
+    }
+  }
+}

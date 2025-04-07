@@ -1,0 +1,42 @@
+{
+  "Subnets": {
+    "SN44: ScorePredict": {
+      "description": "Score Predict is a Bittensor subnet designed to incentivize accurate football (soccer) match predictions. The subnet consists of miners who generate predictions and validators who score these predictions based on actual match outcomes. The validators then set on-chain weights to reward accurate predictions.",
+      "tags": ["SN44", "Subnet-44", "ScorePredict", "Subnet 44"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN44", "ScorePredict", "Subnet 44"],
+          "link": "https://github.com/score-technologies/score-predict"
+        },
+        "White-paper": {
+          "tags": ["Documentation", "White-paper", "SN44", "ScorePredict", "Subnet 44"],
+          "link": "https://drive.google.com/file/d/1oADURxxIZK0mTEqJPDudgXypohtFNkON/view"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN44", "ScorePredict", "Subnet 44"],
+          "link": "https://taostats.io/subnets/44/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN44", "ScorePredict", "Subnet 44"],
+          "link": "https://scorepredict.io/"
+        },
+        "App-scorepredict.io": {
+          "tags": ["Application", "ScorePredict", "SN44", "Subnet 44"],
+          "link": "https://app.scorepredict.io/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN44", "ScorePredict", "Subnet 44"],
+          "link": "https://x.com/webuildscore"
+        },
+        "Discord-Score": {
+          "tags": ["Social", "Discord", "ScorePredict", "SN44", "Subnet 44"],
+          "link": "https://discord.com/invite/pYdsAFZ2AM"
+        },
+        "Discord-Bittensor-SN-44": {
+          "tags": ["Social", "Discord", "Bittensor", "SN44", "ScorePredict", "Subnet 44"],
+          "link": "https://discord.com/channels/799672011265015819/1271486854830755981"
+        }
+      }
+    }
+  }
+}

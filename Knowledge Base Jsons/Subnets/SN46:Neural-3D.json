@@ -1,0 +1,42 @@
+{
+  "Subnets": {
+    "SN46: Neural-3D": {
+      "description": "NeuralAI is a Bittensor subnet dedicated to the generation of 3D models using advanced neural network techniques. Our goal is to allow developers and artists access to tools that simplify the creation of high-quality 3D assets for various applications, including gaming, virtual reality, and simulations.",
+      "tags": ["SN46", "Subnet-46", "Neural-3D", "Subnet 46"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN46", "Neural-3D", "Subnet 46"],
+          "link": "https://github.com/GoNeuralAI/neural-subnet"
+        },
+        "Linktree": {
+          "tags": ["Social", "Linktree", "SN46", "Neural-3D", "Subnet 46"],
+          "link": "https://goneural.ai/links"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN46", "Neural-3D", "Subnet 46"],
+          "link": "https://taostats.io/subnets/46/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN46", "Neural-3D", "Subnet 46"],
+          "link": "https://goneural.ai/"
+        },
+        "App-goneural.ai": {
+          "tags": ["Application", "Goneural", "SN46", "Neural-3D", "Subnet 46"],
+          "link": "https://app.goneural.ai/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN46", "Neural-3D", "Subnet 46"],
+          "link": "https://x.com/GoNeuralAI"
+        },
+        "Discord-Neural-AI": {
+          "tags": ["Social", "Discord", "Neural AI", "SN46", "Neural-3D", "Subnet 46"],
+          "link": "https://discord.com/invite/VP6UcQgBZe"
+        },
+        "Discord-Bittensor-SN46": {
+          "tags": ["Social", "Discord", "Bittensor", "SN46", "Neural-3D", "Subnet 46"],
+          "link": "https://discord.com/channels/799672011265015819/1273657158982172742"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Subnets": {
+    "SN19: Inference": {
+      "description": "Nineteenai specializes in large-scale distributed inference, providing access to the top open-source LLMs, image generation models, and other miscellaneous models, such as embedding models. With an average response time of 300ms and a throughput of 45 tokens per second, Vision delivers both speed and reliability.",
+      "tags": ["Subnet", "SN19", "Subnet 19", "Inference"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Code", "Inference", "SN19", "Subnet 19"],
+          "link": "https://github.com/namoray/vision/"
+        },
+        "White paper": {
+          "tags": ["White paper", "Documentation", "Inference", "SN19", "Subnet 19"],
+          "link": "https://corcel.io/whitepapers/decentralised-subnet-inference-at-scale"
+        },
+        "Project presentation by Namoray": {
+          "tags": ["Presentation", "Project", "Namoray", "Inference", "SN19", "Subnet 19"],
+          "link": "https://sn19.ai/pdfs/sn19-deck.pdf"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Inference", "SN19", "Subnet 19"],
+          "link": "https://taostats.io/subnets/19/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Inference", "SN19", "Subnet 19"],
+          "link": "https://nineteen.ai/"
+        },
+        "App": {
+          "tags": ["Application", "Tool", "Inference", "SN19", "Subnet 19"],
+          "link": "https://app.sn19.ai/"
+        },
+        "X account": {
+          "tags": ["X", "Social Media", "Inference", "SN19", "Subnet 19"],
+          "link": "https://x.com/rayon_labs"
+        },
+        "Discord Bittensor SN 19": {
+          "tags": ["Discord", "Community", "Bittensor", "SN19", "Subnet 19"],
+          "link": "https://discord.com/channels/799672011265015819/1186691482749505627"
+        }
+      }
+    }
+  }
+}

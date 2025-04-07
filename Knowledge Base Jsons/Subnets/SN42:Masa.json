@@ -1,0 +1,42 @@
+{
+  "Subnets": {
+    "SN42: Masa": {
+      "description": "Masa focuses on decentralized data scraping, offering an alternative to traditional centralized services like BrightData and Apify.",
+      "tags": ["SN42", "Subnet-42", "Masa", "Subnet 42"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN42", "Masa", "Subnet 42"],
+          "link": "https://github.com/masa-finance/masa-bittensor"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN42", "Masa", "Subnet 42"],
+          "link": "https://www.masa.ai/"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN42", "Masa", "Subnet 42"],
+          "link": "https://x.com/getmasafi"
+        },
+        "White-paper": {
+          "tags": ["Document", "White-paper", "SN42", "Masa", "Subnet 42"],
+          "link": "https://developers.masa.ai/docs/get-started/introduction"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN42", "Masa", "Subnet 42"],
+          "link": "https://taostats.io/subnets/42/metagraph"
+        },
+        "Medium-AI-Agent-Arena": {
+          "tags": ["Publication", "Medium", "AI", "Agent-Arena", "SN42", "Masa", "Subnet 42"],
+          "link": "https://medium.com/masa-finance/masa-launches-ai-agent-arena-on-bittensor-introducing-subnet-59-7a7f2f86acff"
+        },
+        "Discord-Masa": {
+          "tags": ["Community", "Discord", "Masa", "SN42", "Subnet 42"],
+          "link": "https://discord.com/invite/masafinance"
+        },
+        "Discord-Bittensor-SN42": {
+          "tags": ["Community", "Discord", "Bittensor", "SN42", "Masa", "Subnet 42"],
+          "link": "https://discord.com/channels/799672011265015819/1275149537547391058"
+        }
+      }
+    }
+  }
+}

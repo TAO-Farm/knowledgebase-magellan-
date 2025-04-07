@@ -1,0 +1,34 @@
+{
+  "Subnets": {
+    "SN5: Open-Kaito": {
+      "description": "Bittensor Subnet 5's primary focus is the development of the world’s best performing and most generalizable text embedding model. Leveraging an extensive Large Language Model (LLM)-augmented corpus for evaluation, miners are empowered to develop and deploy text-embedding models that surpass current state-of-the-art (SOTA) performance.",
+      "tags": ["Subnet", "SN5", "Subnet 5", "Open-Kaito"],
+      "children": {
+        "Github": {
+          "tags": ["Github", "Repository", "Open-Kaito", "SN5", "Subnet 5"],
+          "link": "https://github.com/OpenKaito/openkaito"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "Network", "Open-Kaito", "SN5", "Subnet 5"],
+          "link": "https://taostats.io/subnets/5/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "Open-Kaito", "SN5", "Subnet 5"],
+          "link": "https://www.kaito.ai/"
+        },
+        "X account": {
+          "tags": ["Social Media", "X", "Open-Kaito", "SN5", "Subnet 5"],
+          "link": "https://x.com/KaitoAI"
+        },
+        "Discord Bittensor SN5": {
+          "tags": ["Community", "Discord", "Bittensor", "Open-Kaito", "SN5", "Subnet 5"],
+          "link": "https://discord.com/channels/799672011265015819/1214225551364202496"
+        },
+        "Discord Kaito AI": {
+          "tags": ["Community", "Discord", "Kaito-AI", "SN5", "Subnet 5"],
+          "link": "https://discord.com/channels/1062261368809603165/1077597921140289577"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "SN73-fx-integral": {
+    "tags": ["SN73", "Subnet-73", "fx-integral", "Subnet 73"],
+    "children": {
+      "Metagraph": {
+        "tags": ["Metagraph", "SN73", "fx-integral", "Subnet 73"],
+        "link": "https://taostats.io/subnets/73/chart"
+      }
+    }
+  }
+}

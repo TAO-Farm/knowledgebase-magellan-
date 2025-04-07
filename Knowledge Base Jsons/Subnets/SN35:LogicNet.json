@@ -1,0 +1,46 @@
+{
+  "Subnets": {
+    "SN35: LogicNet": {
+      "description": "LogicNet focuses on developing open-source mathematics and detailed data analysis models.",
+      "tags": ["SN35", "Subnet-35", "LogicNet", "Subnet 35"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN35", "LogicNet", "Subnet 35"],
+          "link": "https://github.com/LogicNet-Subnet/LogicNet"
+        },
+        "White-paper": {
+          "tags": ["Documentation", "Research", "SN35", "LogicNet", "Subnet 35"],
+          "link": "https://tonylvh.notion.site/LogicNet_SN35-1b44e52d308f47e7983af25bff6df90e"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN35", "LogicNet", "Subnet 35"],
+          "link": "https://taostats.io/subnets/35/metagraph"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN35", "LogicNet", "Subnet 35"],
+          "link": "https://logicnet.ai/"
+        },
+        "App-aitprotocol.ai": {
+          "tags": ["Application", "LogicNet", "SN35", "Subnet 35"],
+          "link": "https://albert.aitprotocol.ai/auth/login"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN35", "LogicNet", "Subnet 35"],
+          "link": "https://x.com/logicnet_ait"
+        },
+        "Discord-AIT-Protocol": {
+          "tags": ["Community", "Discord", "SN35", "LogicNet", "Subnet 35"],
+          "link": "https://discord.com/invite/aitprotocols"
+        },
+        "Discord-Bittensor-SN35": {
+          "tags": ["Community", "Discord", "SN35", "LogicNet", "Subnet 35"],
+          "link": "https://discord.com/channels/799672011265015819/1204855126045753434"
+        },
+        "Telegram": {
+          "tags": ["Social", "Telegram", "SN35", "LogicNet", "Subnet 35"],
+          "link": "https://t.me/AIT_Protocol"
+        }
+      }
+    }
+  }
+}

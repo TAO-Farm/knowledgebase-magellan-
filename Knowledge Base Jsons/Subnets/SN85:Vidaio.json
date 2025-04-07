@@ -1,0 +1,15 @@
+{
+  "SN85-Vidaio": {
+    "tags": ["SN85", "Subnet-85", "Vidaio", "Subnet 85"],
+    "children": {
+      "Metagraph": {
+        "tags": ["Metagraph", "SN85", "Vidaio", "Subnet 85"],
+        "link": "https://taostats.io/subnets/85/chart"
+      },
+      "X-account": {
+        "tags": ["Social", "X", "SN85", "Vidaio", "Subnet 85"],
+        "link": "https://x.com/vidaio_"
+      }
+    }
+  }
+}

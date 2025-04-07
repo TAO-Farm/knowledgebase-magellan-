@@ -1,0 +1,42 @@
+{
+  "Subnets": {
+    "SN51: Celium": {
+      "description": "Computenet is focused on building a global pool of high-performance GPUs. Users can rent these resources for computational tasks like machine learning and data analysis, while GPU contributors are rewarded based on the quality and performance of their hardware.",
+      "tags": ["SN51", "Subnet-51", "Celium", "Subnet 51"],
+      "children": {
+        "Github": {
+          "tags": ["Code", "Repository", "SN51", "Celium", "Subnet 51"],
+          "link": "https://github.com/Datura-ai/compute-subnet"
+        },
+        "Website": {
+          "tags": ["Website", "Official", "SN51", "Celium", "Subnet 51"],
+          "link": "https://celiumcompute.ai/"
+        },
+        "Docs": {
+          "tags": ["Documentation", "SN51", "Celium", "Subnet 51"],
+          "link": "https://celiumcompute.ai/docs/intro"
+        },
+        "Explore": {
+          "tags": ["Explore", "SN51", "Celium", "Subnet 51"],
+          "link": "https://celiumcompute.ai/explore"
+        },
+        "Metagraph": {
+          "tags": ["Metagraph", "SN51", "Celium", "Subnet 51"],
+          "link": "https://taostats.io/subnets/51/metagraph"
+        },
+        "X-account": {
+          "tags": ["Social", "X", "SN51", "Celium", "Subnet 51"],
+          "link": "https://x.com/celiumcompute?t=wTFlB629o0urNJo8DCwgnA&s=09"
+        },
+        "Discord-Bittensor-SN51": {
+          "tags": ["Social", "Discord", "Bittensor", "SN51", "Celium", "Subnet 51"],
+          "link": "https://discord.com/channels/799672011265015819/1291754566957928469"
+        },
+        "Telegram": {
+          "tags": ["Social", "Telegram", "SN51", "Celium", "Subnet 51"],
+          "link": "https://t.me/daturavalidator"
+        }
+      }
+    }
+  }
+}
